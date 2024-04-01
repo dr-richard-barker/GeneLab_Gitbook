@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://genelab.nasa.gov/awg-symposium-2022" />
+<meta name="robots" content="index, follow" />
+<link rel="image_src" href="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_patch.png" />
+<meta name="description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta property="og:site_name" content="NASA GeneLab" />
+<meta property="og:description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta property="og:video" content="https://www.youtube.com/watch?v=evPRRuM6KFA&amp;feature=youtu.be" />
+<meta property="og:image:url" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta property="og:image:secure_url" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta property="og:video:secure_url" content="https://www.youtube.com/watch?v=evPRRuM6KFA&amp;feature=youtu.be" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@NASAGeneLab" />
+<meta name="twitter:description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta name="twitter:title" content="NASA GeneLab" />
+<meta name="twitter:site:id" content="1065045177880834048" />
+<meta name="twitter:image:alt" content="NASA GeneLab logo" />
+<meta name="twitter:image" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://genelab.nasa.gov/awg-symposium-2022" />
+
+    <title>AWG Symposium 2022 | NASA GeneLab</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_avp1aRqYwQIGEIVoTqWbOb9VWH7B8hsW6kdgqtDnNTU.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_exWrLG9ym6OyhBnF-kUqaE2aYAnTei30jDm-dRtESxc.css" />
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-touch-fullscreen" content="YES" />
+          <script type="text/javascript" src="/modules/seckit/js/seckit.document_write.js"></script>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/seckit/css/seckit.no_body.css" />
+        <!-- stop SecKit protection -->
+        <noscript>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/seckit/css/seckit.noscript_tag.css" />
+        <div id="seckit-noscript-tag">
+          Sorry, you need to enable JavaScript to visit this website.
+        </div>
+        </noscript></head>
+  <body class="not-front">
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page" class="page" >
+
+  
+<a name="Top" id="Top"></a>
+<header id="header" class="header" role="header">
+  <div class="container">
+    
+       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu-inner">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+      <div class="region region-header">
+    <div id="block-zircon-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/sites/default/files/inline-images/NASA_GeneLab_logo-2019.png" alt="Home" />
+    </a>
+      </div>
+<div id="block-testmenu" class="block block-we-megamenu block-we-megamenu-blocktest-menu">
+  
+    
+      <div class="region-we-mega-menu">
+	<a class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="test-menu navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="test-menu" data-block-theme="zircon" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="" data-action="hover" data-mobile-collapse="0">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="4ec0cad8-c765-4fe8-b892-c3f0ec8f3f9c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/" target="_self">
+      Home    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="29e7479c-2f70-4299-bfea-680e20dadf95" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/about" target="">
+      About    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2093fc32-f78c-40fb-84dc-e836c2d40d21" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/about" target="_self">
+      About GeneLab    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="29753d56-dcea-48ba-bf8c-1e7c5e4fff18" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/aboutGLDS" target="_self">
+      About GeneLab Data Systems    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="23df67b8-de45-4fca-a80b-68e5d7cafabd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/about-data-viz" target="_self">
+      About Data Visualization    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="a62c9156-c5b3-4aa8-b76b-5cae722b19b3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/overview" target="_self">
+      Project Overview    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="70b1d9f2-3478-4c7b-8081-d7b53c2f6539" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/newsletter" target="_self">
+      Newsletter Archives    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="ee3849ee-1600-46fc-949e-77076b1c081b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/newsarchive" target="_self">
+      Latest News – Archive    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="9c044b6f-8b1a-49d5-9649-bbb648c5395d" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://genelab-data.ndc.nasa.gov/genelab/" target="">
+      Data &amp; Tools    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1c7e3764-8434-4082-a5ee-622ab1eaa13f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/repo/" target="_self">
+      Data Repository    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2c267bc0-c105-47e4-a9a7-0d8444a56796" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://visualization.genelab.nasa.gov/" target="_self">
+      Data Visualization    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1d33b23c-5c1f-4762-9030-eeeecfc8bf0d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://galaxy.genelab.nasa.gov/" target="_self">
+      Analyze Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="e66a9bcd-91f9-4fbc-a150-3e469430f4cb" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/environmental/radiation" target="_self">
+      Environmental Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5367a402-56d7-43d2-922c-c51f01ce283c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/workspace-sso-login.html" target="_self">
+      Collaborative Workspace    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5fbf6eaf-6413-4009-af0a-6645c6bbbb1d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/submission-sso-login.html" target="_self">
+      Submit Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fc21f584-4441-446c-b9d6-93f3cd1da15a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelabAPIs" target="_self">
+      OSDR API    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="b02ade97-00d1-4705-99b8-e6919f5cfd01" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/researchandresources" target="">
+      Research &amp; Resources    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="260731e4-76fb-48f5-8645-ae74e00bf2b4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/data/publications.html" target="_self">
+      Publications    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="52c9ad6c-d941-4bd1-a8c1-81788985ca93" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/internships" target="_self">
+      NASA Internships    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="External Visualization applications linked to GeneLab" data-id="864424ea-a361-4cf5-b369-b36b3d3ec95b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="External Visualization applications linked to GeneLab" href="/external-vis-apps" target="_self">
+      Space Biology Data Visualization Apps    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="8742591d-49f3-4c1f-9b32-8992875219f9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/overview-educator-resources" target="_self">
+      Educator Resources    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2a040a59-b0ea-4e66-8c59-a3739b253b9b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://public.ksc.nasa.gov/nslsl/" target="_self">
+      NASA Space Life Sciences Library (NSLSL)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fe0b0ccd-edcb-46bd-b67f-8cd401ab925b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://ibsls.megabank.tohoku.ac.jp/" target="_self">
+      Integrated Biobank for Space Life Sciences (ibSLS)    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="ecb5a848-3224-4c6c-94f3-cf127c5d99ed" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/services" target="">
+      Services    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="204095cd-5cdb-42ad-bdeb-451aae495264" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/overview" target="">
+      Sequencing and Sample Processing    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="acf2a8cc-2b6a-4405-826a-301008c22063" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/overview" target="_self">
+      Overview    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="5303b7d9-e05c-416f-88d5-7990db3faf07" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/omics_data" target="_self">
+      In-house Omics Data Generation    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="d2a7cd99-b625-4809-812c-d091f1370898" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/SPL_processed_data" target="">
+      Next Gen Sequencing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="62617afd-cfde-43d3-82d7-a07c370bec7d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/standardizing" target="_self">
+      Standardizing Sample Processing and Sequencing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Standard Operating Procedures Used in Sample Processing" data-id="e0c99707-7643-4515-b54c-0ca0a6d88efe" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="Standard Operating Procedures Used in Sample Processing" href="/genelab-sequencing-services/sops" target="_self">
+      Standard Operating Procedures    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="GeneLab Sequencing Standards and Services" data-id="16de2d62-5819-48b8-8c68-81c37d961591" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="GeneLab Sequencing Standards and Services" href="/form/genelab-sequencing-services" target="_self">
+      Sequencing Standards and Services    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="136f9b54-e7a0-4249-8afb-b3bbdf3d7b1e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/data-processing-overview" target="_self">
+      Data Processing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fa211d19-163e-4db1-a478-8a01ec2e7a07" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/form/genelab-sequencing-services" target="_self">
+      Sequencing and Data Processing Quote Request    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b03a3a7e-979e-4829-a56e-f9ab6f6c4121" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/about/nbisc.html" target="_self">
+      NASA Biological Institutional Scientific Collection    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="efeac7fc-38fc-403d-bf0f-57c445c3f15e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://nlsp.nasa.gov/explore/lsdahome/datarequest" target="">
+      Request NBISC Tissue Samples    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu active active-trail" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="fc237bcd-3efb-47b9-8f12-be9c1a68fcfb" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/workinggroups" target="">
+      Working Groups    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu active active-trail" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="41657302-4d34-437a-963b-997cc5e7fc74" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/about.html" target="_self">
+      AWGs    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="6eb69a53-63ea-4170-9a8f-565a127f0445" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/charter.html" target="_self">
+      Analysis Working Groups Charter    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="ca1f5a45-c162-4172-8a86-2996bd0c165d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/join.html" target="_self">
+      How to Join an AWG    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="504d75ad-1c1a-4487-b39e-3e3989523410" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/awg-members.html" target="_self">
+      Current AWG Members    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="23e323ec-4cb1-4a19-ab81-60dca14b08a4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/internship" target="_self">
+      AWG Internship Opportunity    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c817f011-c4c8-431c-b82d-a40c100c9ef4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/2018" target="_self">
+      AWG 2018 Annual Report    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="df5b5fbe-d849-4576-a0b7-6a4a4256acc0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/2019" target="_self">
+      AWG 2019 Annual Report    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu active active-trail" data-level="2" data-element-type="we-mega-menu-li" description="AWG Workshops" data-id="758a5375-8657-484f-86e1-30b1eb900991" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Workshops" href="/awg-workshops" target="_self">
+      AWG Workshops    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="" data-id="d9096df1-e85f-4a1c-a72f-2f06b43c98a1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/workshop" target="_self">
+      AWG Workshop 2018    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="" data-id="358c4bbb-200d-4050-9693-4346868a93ec" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/workshop-2019" target="_self">
+      AWG Workshop 2019    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="AWG Workshop 2021" data-id="0872b358-61e5-4dbd-8054-9699ae6838d4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Workshop 2021" href="/awg/2021" target="_self">
+      AWG Workshop 2021    </a>
+    
+</li><li  class="we-mega-menu-li active active-trail" data-level="3" data-element-type="we-mega-menu-li" description="AWG Symposium 2022" data-id="e07fcec4-1501-49da-9e1b-606f1cda046c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Symposium 2022" href="/awg-symposium-2022" target="_self">
+      AWG Symposium 2022    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="cd6a54bd-2b13-4fd3-89dd-e0f848527d22" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/faq" target="">
+      Help    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="47c0a8b6-7b74-4327-a688-246089f2db15" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/faq" target="_self">
+      FAQ    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1f6f6ece-13b1-4da1-8012-9f72b58acb6f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/tutorials" target="_self">
+      Tutorials    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="39d2fc6d-3d38-47ae-ad65-2712868e1094" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/troubleshooting" target="_self">
+      Troubleshooting    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="58e33491-2214-415d-b6c3-1c181b48870e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/contact" target="_self">
+      Contact Us    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+  </div>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-zircon-search" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+    
+      </div>
+</header>
+
+  
+  
+  
+  
+  
+      <section id="help" class="help">
+      <div class="container">
+        
+      </div>
+    </section>
+      
+
+  <section id="main" class="main" role="main">
+    <a id="main-content"></a>
+    <div class="container">
+      <div class="row">
+        
+        		
+        <div class="content col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          
+
+          
+                    
+
+          
+
+          
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">AWG Symposium 2022</span>
+</h1>
+
+
+  </div>
+<article data-history-node-id="799" role="article" about="/awg-symposium-2022" typeof="schema:WebPage">
+
+  
+      <span property="schema:name" content="AWG Symposium 2022" class="rdf-meta hidden"></span>
+
+
+  
+  <div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://us06web.zoom.us/meeting/register/tZApcOqtqTwoGdFNQrj2UnsMed7yDOgiETkv"><img alt="AWG Symposium 2022" data-entity-type="file" data-entity-uuid="ec46fec6-288c-4cd7-a64c-aa830ee6a2fc" height="464" src="/sites/default/files/inline-images/MicrosoftTeams-image%20%288%29.png" width="617" class="align-center" loading="lazy" /></a>
+<p style="margin-right:50px; margin-bottom:15px"> </p>
+<a href="https://us06web.zoom.us/meeting/register/tZApcOqtqTwoGdFNQrj2UnsMed7yDOgiETkv"><img alt="Register now button" data-entity-type="file" data-entity-uuid="9d5db331-98e0-4c42-872d-739d730242db" height="74" src="/sites/default/files/inline-images/Register%20now%202.png" width="199" class="align-center" loading="lazy" /></a>
+
+<p style="margin-right:50px; margin-bottom:15px"> </p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><i><span style="font-size:20.0pt"><span style="color:#2269B0">What is the AWG Symposium?</span></span></i></b></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="background:white"><span style="color:#555555">To explore deeper into space, it is crucial that we learn how our bodies change and adapt to the unique environment of space. </span></span></span>GeneLab helps scientists understand how the fundamental building blocks of life itself – DNA, RNA, proteins, and metabolites – change from exposure to microgravity, radiation, and other aspects of the space environment. The purpose of the GeneLab Analysis Working Groups (AWGs) is to optimize the processing of raw omics data from the GeneLab repository to maximize the gain of new knowledge from such complex datasets. </span></span></span></span><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">The Analysis Working Group (AWG) is comprised of scientists with diverse backgrounds and is subdivided into five main areas of expertise (plant, animal, microbes, multi-omics, and ALSDA).  The AWG members focus on establishing consensus pipelines, discuss processed data and analyze GeneLab data that enables new discoveries. <br /><br />
+This free virtual event is open to the public and will allow attendees an opportunity to hear about some of the exciting omics science stemming from the AWG community. The symposium will feature a keynote address from NASA Astronaut Kathleen "Kate" Rubins, and scientific presentations from invited speakers and AWG members that have expertise in data science, plant biology, systems biology, microbiology, and space medicine.  If you are intrigued by the science occurring in the AWGs, then we would love for you to join!  Learn more about how to join the AWGs during the event.</span></span></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"> </p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><i><span style="font-size:20.0pt"><span style="color:#2269B0">Who is appearing at the symposium?</span></span></i></b></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"> <img alt="Opening Remarks and Keynote Speaker Agenda" data-entity-type="file" data-entity-uuid="3fcc1760-edc3-4eee-84f9-983d4e491c5f" height="557" src="/sites/default/files/inline-images/agenda%201_1.JPG" width="1147" loading="lazy" /></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><img alt="GeneLab Grant Recipients and AWG Status Updates Agenda" data-entity-type="file" data-entity-uuid="558b86ad-8401-4e39-9adb-f40f2548f165" height="601" src="/sites/default/files/inline-images/AWG%20symp%20agenda%202.JPG" width="1151" loading="lazy" /></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><img alt="AWG Early Career Lightning Science Talks and AWG Science Talks Agenda" data-entity-type="file" data-entity-uuid="90381d3c-c444-41ac-b417-9b5303d82809" height="622" src="/sites/default/files/inline-images/updated%20agenda%203_0.JPG" width="1147" loading="lazy" /></p>
+
+<p style="margin-right:50px; margin-bottom:15px"> </p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><i><span style="font-size:20.0pt"><span style="color:#2269B0">Meeting Agenda Details:</span></span></i></b></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">10:00 AM – 10:10 AM PT: Opening Remarks</span></span></b><i><span style="font-size:14.0pt"><span style="color:#555555">—</span></span></i><span style="font-size:14.0pt"><span style="color:#555555">Jon Galazka, PhD (NASA Ames Research Center)</span></span></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">10:10 AM – 10:40 AM PT: Keynote Talk</span></span></b><span style="font-size:14.0pt"><span style="color:#555555">—"Conducting Research in Microgravity: A Scientist-Astronaut's Perspective"—Kathleen "Kate" Rubins (NASA Astronaut)</span></span></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">10:40 AM – 11:40 AM PT: GeneLab Grant Recipients</span></span></b></span></span></span></span></p>
+
+<ul><li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">10:40 AM – 11:00 AM: “Plant Reactome: A knowledgebase of plant gene regulatory networks and pathways and its use for space biologists”— Sushma Naithani, PhD (Oregon State University)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">11:00 AM – 11:20 AM: “At the Intersection: meta-analysis of transcriptomic datasets”— Sarah Wyatt, PhD (Ohio University)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">11:20 AM – 11:40 AM: “Plant transcriptome modulation in response to microgravity”—Pankaj Jaiswal, PhD (Oregon State University)</span></span></span></span></span></span></span></li>
+</ul><p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">11:40 AM – 12:30 PM PT: AWG Status Updates</span></span></b></span></span></span></span></p>
+
+<ul><li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">11:40 AM – 11:50 AM: Animal AWG Update—Nathaniel Szewczyk, PhD (Ohio University)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">11:50 AM – 12:00 PM: Microbes AWG Update—Braden Tierney, PhD (Weill Cornell Medicine)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">12:00 PM – 12:10 PM: Multi-Omics AWG Update—Afshin Beheshti, PhD (NASA ARC and Broad Institute)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">12:10 PM – 12:20 PM: Plant AWG Update—Colin Kruse, PhD (Lawrence Livermore National Labs)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">12:20 PM – 12:30 PM: ALSDA AWG Update—Ryan Scott, MS (NASA Ames Research Center)</span></span></span></span></span></span></span></li>
+</ul><p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">12:30 PM – 12:50 PM PT: Break</span></span></b></span></span></span></span></p>
+
+<p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">12:50 PM – 1:15 PM PT: Lightning Science Talks</span></span></b></span></span></span></span></p>
+
+<ul><li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">12:50 PM – 12:55 PM: “Impact of Spaceflight on the Skin Transcriptome”—Henry Cope (University of Nottingham)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">12:55 PM – 1:00 PM: TBD—Jaden Hastings, PhD (Weill Cornell Medicine)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:00 PM – 1:05 PM: “Exploring Kidney Dysfunction in Space: Comparing Responses of Mouse Strains Using Omics”—Rebecca Finch, MS (Staffordshire University)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:05 PM – 1:10 PM: “Mining the Gravity Mutants of Arabidopsis”—Emma Canaday (Ohio University)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:10 PM – 1:15 PM: Q+A</span></span></span></span></span></span></span></li>
+</ul><p style="margin-right:50px; margin-bottom:15px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:14.0pt"><span style="color:#555555">1:15 PM – 2:30 PM: AWG Science Talks</span></span></b></span></span></span></span></p>
+
+<ul><li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:15 PM – 1:30 PM: “The Matrix Meta-analysis of the first 15 AstroBotany Transcriptomes”—Richard Barker, PhD (University of Wisconsin at Madison)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:30 PM – 1:45 PM: “Metagenomics at the murine host-gut microbiota interface during space flight”—Nicholas Brereton, PhD (University of Montreal)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">1:45 PM – 2:00 PM: "Extraterrestrial gynecology: Could spaceflight increase the risk of developing cancer in female astronauts?"—Jean Calleja Agius, PhD (University of Malta)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">2:00 PM – 2:15 PM: “Causal Diagramming in Human System Risk Management”—Erik Antonsen, PhD (Baylor College of Medicine)</span></span></span></span></span></span></span></li>
+	<li style="margin-right:50px; margin-left:16px; margin-bottom:11px"><span style="font-size:14pt"><span style="background:white"><span style="line-height:normal"><span style="tab-stops:list .5in"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="color:#555555">2:15 PM – 2:30 PM: “Space life science research to predict the future of life on and beyond Earth”—Masafumi Muratani, PhD (University of Tsukuba)</span></span></span></span></span></span></span></li>
+</ul><a href="https://us06web.zoom.us/meeting/register/tZApcOqtqTwoGdFNQrj2UnsMed7yDOgiETkv"><img alt="Register now button" data-entity-type="file" data-entity-uuid="9d5db331-98e0-4c42-872d-739d730242db" height="74" src="/sites/default/files/inline-images/Register%20now%202.png" width="199" class="align-center" loading="lazy" /></a></div>
+      
+  </div>
+
+</article>
+
+  </div>
+
+
+          <!---->
+        </div>
+
+              </div>
+    </div>
+  </section>
+
+      
+      <section id="panel_second" class="panel_second">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-1">
+    <div id="block-contactinfo" class="block block-block-content block-block-contente29440d8-09bd-4afe-8080-1f9cc71afa89">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p style="text-align:center; margin:0;"><img alt="NASA GeneLab – Open Science for Life in Spac" data-entity-type="file" data-entity-uuid="3893f31d-02c8-415a-af46-cd4b48ef0f79" src="/sites/default/files/inline-images/GeneLab_patch.png" style="width:250px;" width="1410" height="1416" loading="lazy" /></p>
+</div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-2">
+    <div id="block-newslettersubscribe" class="block block-block-content block-block-content028b2459-1ec4-4eab-ac35-09a298198175">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Follow Us</h2>
+
+<div style="margin-bottom:20px;"><a href="https://www.researchgate.net/project/Omics-for-Space-Biology-The-GeneLab-project" target="_blank"><img alt="ResearchGate" data-entity-type="file" data-entity-uuid="b7a2b568-75b0-457d-baa7-765d9f86fd77" src="/sites/default/files/inline-images/researchgate_logo_0.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://twitter.com/NASAGeneLab" target="_blank"><img alt="Twitter" data-entity-type="file" data-entity-uuid="a540ccaa-f984-4f78-872b-86be9fc82224" src="/sites/default/files/inline-images/twitter_logo.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="http://www.facebook.com/NASAGeneLab" target="_blank"><img alt="Facebook" data-entity-type="file" data-entity-uuid="982393a9-a446-4092-81df-c63ec858909f" src="/sites/default/files/inline-images/facebook_logo.jpg" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://www.youtube.com/channel/UC8fJXt1D8IT4GM4qxKPgUmg" target="_blank"><img alt="YouTube " data-entity-type="file" data-entity-uuid="116bdc10-6e7b-482b-93a2-fb95d7d332ab" src="/sites/default/files/inline-images/youtube_logo_0.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://www.linkedin.com/company/nasa-genelab/" target="_blank"><img alt="LinkedIn" data-entity-type="file" data-entity-uuid="84b5cbab-eae2-409f-9f2f-28995a6c105e" src="/sites/default/files/inline-images/LinkedIn_0.png" height="40" width="auto" style="height:40px; margin-bottom:14px;" loading="lazy" /></a></div>
+
+<h2>Newsletter Signup</h2>
+<p>Stay up to date with the latest news:</p>
+<ul><li><a id="newsletter-link" href="https://lp.constantcontactpages.com/sl/NIjXkcl">Join our mailing list</a></li></ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-3">
+    <div id="block-contributers" class="block block-block-content block-block-content5c79d52c-d749-4b30-b0d5-599788fdd8f4">
+  
+      <h2>Contacts</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul id="contact"><li>NASA Official: Sylvain Costes</li>
+	<!--<li>Editor: Sonja Caldwell</li>-->
+	<li><a href="/help/contact"><strong>Questions and Feedback</strong></a></li>
+</ul><h2>Site Information</h2>
+
+<ul><li><a href="/overview">NASA GeneLab Overview</a></li>
+	<li><a href="/terms">Terms and Conditions</a></li>
+	<li><a href="https://www.nasa.gov/about/highlights/HP_Privacy.html" target="_blank">NASA Privacy Policy and Notices</a></li>
+</ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-4">
+    <div id="block-usefullinks" class="block block-block-content block-block-content44ac3b91-d181-4acc-8f6f-8d89f711a1a2">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Other Resources</h2>
+
+<ul><li><a href="https://www.nasa.gov/spacebio" target="_blank">NASA Space Biology Program</a></li>
+	<li><a href="https://www.nasa.gov/ames/research/space-biosciences/" target="_blank">NASA Ames Space Biosciences Division</a></li>
+	<li><a href="https://lsda.jsc.nasa.gov/" target="_blank">NASA Life Sciences Data Archive</a></li>
+	<li><a href="https://psi.nasa.gov/" target="_blank">NASA Physical Science Informatics</a></li>
+	<li><a href="https://www.issnationallab.org/" target="_blank" title="Center for the Advancement of Science in Space">Center for the Advancement of Science in Space</a></li>
+</ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <a href="#Top" class="btn-btt" title="Back to Top" style="display: block;"></a>          
+
+      <footer id="footer" class="footer" role="contentinfo">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.nasa.gov">NASA</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://odeo.hq.nasa.gov/nofear.html">No Fear Act</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.nasa.gov/FOIA">FOIA</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.usa.gov/">USA.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://get.adobe.com/reader/">Get Acrobat Reader</a>
+              </li>
+                <li class="menu-item">
+        <a href="mailto:genelab-outreach@lists.nasa.gov">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.nasa.gov/accessibility/">Accessibility</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-googleanalytics" class="block block-block-content block-block-contenta4591662-005e-4346-aebc-5788f7623945">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!--<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-55187338-1', 'auto');
+			ga('send', 'pageview');
+		</script>--></div>
+      
+  </div>
+
+  </div>
+
+      </div>
+    </footer>
+  
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/799","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/normalize,ga\/analytics,system\/base,we_megamenu\/form.we-mega-menu-frontend,zircon\/global-scripts,zircon\/global-styling,zircon\/skins-menu","theme":"zircon","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"ga":{"commands":[["create","UA-55187338-1","auto",{"anonymizeIp":true}],["send","pageview"]]},"user":{"uid":0,"permissionsHash":"3763ad8da6ccba95a762089952c3a408a321e2f97dffb01171924f5b011b0a09"}}</script>
+<script src="/sites/default/files/js/js_KpGhkaK83--_ybGKrCX1PKg4G-jecdDyHgNBxjifOVA.js"></script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+<script src="/sites/default/files/js/js_fw-7d9G3e9S1GmMV8iQzepdCdvczpQhEtuGElT48AOo.js"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&amp;subagency=ARC" id="_fed_an_ua_tag" async type="text/javascript"></script>
+<script src="/sites/default/files/js/js_rGIPVHVAmTaZ0vnt4nTYErb9kSVevgTUAptPnZy1QTU.js"></script>
+
+  </body>
+</html>
+

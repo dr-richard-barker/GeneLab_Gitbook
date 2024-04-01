@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://genelab.nasa.gov/help/tutorials/usermanual" />
+<meta name="robots" content="index, follow" />
+<link rel="image_src" href="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_patch.png" />
+<meta name="description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta property="og:site_name" content="NASA GeneLab" />
+<meta property="og:description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta property="og:video" content="https://www.youtube.com/watch?v=evPRRuM6KFA&amp;feature=youtu.be" />
+<meta property="og:image:url" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta property="og:image:secure_url" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta property="og:video:secure_url" content="https://www.youtube.com/watch?v=evPRRuM6KFA&amp;feature=youtu.be" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@NASAGeneLab" />
+<meta name="twitter:description" content="The first comprehensive space-related omics database in which users can upload, download, share, store, and analyze spaceflight and corresponding model organism data." />
+<meta name="twitter:title" content="NASA GeneLab" />
+<meta name="twitter:site:id" content="1065045177880834048" />
+<meta name="twitter:image:alt" content="NASA GeneLab logo" />
+<meta name="twitter:image" content="https://genelab.nasa.gov/sites/default/files/inline-images/GeneLab_logo_card.jpg" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://genelab.nasa.gov/help/tutorials/usermanual" />
+
+    <title>GeneLab User Manual | NASA GeneLab</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_avp1aRqYwQIGEIVoTqWbOb9VWH7B8hsW6kdgqtDnNTU.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_exWrLG9ym6OyhBnF-kUqaE2aYAnTei30jDm-dRtESxc.css" />
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-touch-fullscreen" content="YES" />
+          <script type="text/javascript" src="/modules/seckit/js/seckit.document_write.js"></script>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/seckit/css/seckit.no_body.css" />
+        <!-- stop SecKit protection -->
+        <noscript>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/seckit/css/seckit.noscript_tag.css" />
+        <div id="seckit-noscript-tag">
+          Sorry, you need to enable JavaScript to visit this website.
+        </div>
+        </noscript></head>
+  <body class="not-front">
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page" class="page" >
+
+  
+<a name="Top" id="Top"></a>
+<header id="header" class="header" role="header">
+  <div class="container">
+    
+       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu-inner">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+      <div class="region region-header">
+    <div id="block-zircon-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/sites/default/files/inline-images/NASA_GeneLab_logo-2019.png" alt="Home" />
+    </a>
+      </div>
+<div id="block-testmenu" class="block block-we-megamenu block-we-megamenu-blocktest-menu">
+  
+    
+      <div class="region-we-mega-menu">
+	<a class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="test-menu navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="test-menu" data-block-theme="zircon" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="" data-action="hover" data-mobile-collapse="0">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="4ec0cad8-c765-4fe8-b892-c3f0ec8f3f9c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/" target="_self">
+      Home    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="29e7479c-2f70-4299-bfea-680e20dadf95" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/about" target="">
+      About    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2093fc32-f78c-40fb-84dc-e836c2d40d21" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/about" target="_self">
+      About GeneLab    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="29753d56-dcea-48ba-bf8c-1e7c5e4fff18" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/aboutGLDS" target="_self">
+      About GeneLab Data Systems    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="23df67b8-de45-4fca-a80b-68e5d7cafabd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/about-data-viz" target="_self">
+      About Data Visualization    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="a62c9156-c5b3-4aa8-b76b-5cae722b19b3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/overview" target="_self">
+      Project Overview    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="70b1d9f2-3478-4c7b-8081-d7b53c2f6539" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/newsletter" target="_self">
+      Newsletter Archives    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="ee3849ee-1600-46fc-949e-77076b1c081b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/newsarchive" target="_self">
+      Latest News – Archive    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="9c044b6f-8b1a-49d5-9649-bbb648c5395d" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://genelab-data.ndc.nasa.gov/genelab/" target="">
+      Data &amp; Tools    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1c7e3764-8434-4082-a5ee-622ab1eaa13f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/repo/" target="_self">
+      Data Repository    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2c267bc0-c105-47e4-a9a7-0d8444a56796" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://visualization.genelab.nasa.gov/" target="_self">
+      Data Visualization    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1d33b23c-5c1f-4762-9030-eeeecfc8bf0d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://galaxy.genelab.nasa.gov/" target="_self">
+      Analyze Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="e66a9bcd-91f9-4fbc-a150-3e469430f4cb" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/environmental/radiation" target="_self">
+      Environmental Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5367a402-56d7-43d2-922c-c51f01ce283c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/workspace-sso-login.html" target="_self">
+      Collaborative Workspace    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5fbf6eaf-6413-4009-af0a-6645c6bbbb1d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/submission-sso-login.html" target="_self">
+      Submit Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fc21f584-4441-446c-b9d6-93f3cd1da15a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelabAPIs" target="_self">
+      OSDR API    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="b02ade97-00d1-4705-99b8-e6919f5cfd01" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/researchandresources" target="">
+      Research &amp; Resources    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="260731e4-76fb-48f5-8645-ae74e00bf2b4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/data/publications.html" target="_self">
+      Publications    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="52c9ad6c-d941-4bd1-a8c1-81788985ca93" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/internships" target="_self">
+      NASA Internships    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="External Visualization applications linked to GeneLab" data-id="864424ea-a361-4cf5-b369-b36b3d3ec95b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="External Visualization applications linked to GeneLab" href="/external-vis-apps" target="_self">
+      Space Biology Data Visualization Apps    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="8742591d-49f3-4c1f-9b32-8992875219f9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/overview-educator-resources" target="_self">
+      Educator Resources    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2a040a59-b0ea-4e66-8c59-a3739b253b9b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://public.ksc.nasa.gov/nslsl/" target="_self">
+      NASA Space Life Sciences Library (NSLSL)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fe0b0ccd-edcb-46bd-b67f-8cd401ab925b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://ibsls.megabank.tohoku.ac.jp/" target="_self">
+      Integrated Biobank for Space Life Sciences (ibSLS)    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="ecb5a848-3224-4c6c-94f3-cf127c5d99ed" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/services" target="">
+      Services    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="204095cd-5cdb-42ad-bdeb-451aae495264" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/overview" target="">
+      Sequencing and Sample Processing    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="acf2a8cc-2b6a-4405-826a-301008c22063" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/overview" target="_self">
+      Overview    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="5303b7d9-e05c-416f-88d5-7990db3faf07" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/omics_data" target="_self">
+      In-house Omics Data Generation    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="d2a7cd99-b625-4809-812c-d091f1370898" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/SPL_processed_data" target="">
+      Next Gen Sequencing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="62617afd-cfde-43d3-82d7-a07c370bec7d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/genelab-sequencing-services/standardizing" target="_self">
+      Standardizing Sample Processing and Sequencing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Standard Operating Procedures Used in Sample Processing" data-id="e0c99707-7643-4515-b54c-0ca0a6d88efe" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="Standard Operating Procedures Used in Sample Processing" href="/genelab-sequencing-services/sops" target="_self">
+      Standard Operating Procedures    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="GeneLab Sequencing Standards and Services" data-id="16de2d62-5819-48b8-8c68-81c37d961591" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="GeneLab Sequencing Standards and Services" href="/form/genelab-sequencing-services" target="_self">
+      Sequencing Standards and Services    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="136f9b54-e7a0-4249-8afb-b3bbdf3d7b1e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/data-processing-overview" target="_self">
+      Data Processing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fa211d19-163e-4db1-a478-8a01ec2e7a07" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/form/genelab-sequencing-services" target="_self">
+      Sequencing and Data Processing Quote Request    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b03a3a7e-979e-4829-a56e-f9ab6f6c4121" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/about/nbisc.html" target="_self">
+      NASA Biological Institutional Scientific Collection    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="efeac7fc-38fc-403d-bf0f-57c445c3f15e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://nlsp.nasa.gov/explore/lsdahome/datarequest" target="">
+      Request NBISC Tissue Samples    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="fc237bcd-3efb-47b9-8f12-be9c1a68fcfb" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/workinggroups" target="">
+      Working Groups    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="41657302-4d34-437a-963b-997cc5e7fc74" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/about.html" target="_self">
+      AWGs    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="6eb69a53-63ea-4170-9a8f-565a127f0445" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/charter.html" target="_self">
+      Analysis Working Groups Charter    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="ca1f5a45-c162-4172-8a86-2996bd0c165d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/join.html" target="_self">
+      How to Join an AWG    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="504d75ad-1c1a-4487-b39e-3e3989523410" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://osdr.nasa.gov/bio/awg/awg-members.html" target="_self">
+      Current AWG Members    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="23e323ec-4cb1-4a19-ab81-60dca14b08a4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/internship" target="_self">
+      AWG Internship Opportunity    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c817f011-c4c8-431c-b82d-a40c100c9ef4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/2018" target="_self">
+      AWG 2018 Annual Report    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="df5b5fbe-d849-4576-a0b7-6a4a4256acc0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/2019" target="_self">
+      AWG 2019 Annual Report    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="2" data-element-type="we-mega-menu-li" description="AWG Workshops" data-id="758a5375-8657-484f-86e1-30b1eb900991" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Workshops" href="/awg-workshops" target="_self">
+      AWG Workshops    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="" data-id="d9096df1-e85f-4a1c-a72f-2f06b43c98a1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/workshop" target="_self">
+      AWG Workshop 2018    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="" data-id="358c4bbb-200d-4050-9693-4346868a93ec" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/awg/workshop-2019" target="_self">
+      AWG Workshop 2019    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="AWG Workshop 2021" data-id="0872b358-61e5-4dbd-8054-9699ae6838d4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Workshop 2021" href="/awg/2021" target="_self">
+      AWG Workshop 2021    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="3" data-element-type="we-mega-menu-li" description="AWG Symposium 2022" data-id="e07fcec4-1501-49da-9e1b-606f1cda046c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="AWG Symposium 2022" href="/awg-symposium-2022" target="_self">
+      AWG Symposium 2022    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="cd6a54bd-2b13-4fd3-89dd-e0f848527d22" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/faq" target="">
+      Help    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="47c0a8b6-7b74-4327-a688-246089f2db15" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/faq" target="_self">
+      FAQ    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1f6f6ece-13b1-4da1-8012-9f72b58acb6f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/tutorials" target="_self">
+      Tutorials    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="39d2fc6d-3d38-47ae-ad65-2712868e1094" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/troubleshooting" target="_self">
+      Troubleshooting    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="58e33491-2214-415d-b6c3-1c181b48870e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/help/contact" target="_self">
+      Contact Us    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+  </div>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-zircon-search" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+    
+      </div>
+</header>
+
+  
+  
+  
+  
+  
+      <section id="help" class="help">
+      <div class="container">
+        
+      </div>
+    </section>
+      
+
+  <section id="main" class="main" role="main">
+    <a id="main-content"></a>
+    <div class="container">
+      <div class="row">
+        
+                  <aside class="sidebar-first sidebar col-lg-3 col-md-3 col-sm-12 col-xs-12" role="complementary">
+              <div class="region region-sidebar-first">
+    <nav role="navigation" aria-labelledby="block-helpv2-menu" id="block-helpv2" class="block block-menu navigation menu--help-v2">
+      
+  <h2 id="block-helpv2-menu">Help</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/faq" data-drupal-link-system-path="node/42">Frequently Asked Questions</a>
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/help/tutorials" data-drupal-link-system-path="node/78">Tutorials</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://youtu.be/sAu7ojTth5k">Video: Overview of Webpage, Data Repository, and Tools</a>
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/help/tutorials/usermanual" data-drupal-link-system-path="node/590" class="is-active">User Manual</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/help/tutorials/usermanual#1" data-drupal-link-system-path="node/590" class="is-active">What is GeneLab?</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#2" data-drupal-link-system-path="node/590" class="is-active">An Overview of the User Interface</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#3" data-drupal-link-system-path="node/590" class="is-active">Search Utility in GeneLab Data System</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#4" data-drupal-link-system-path="node/590" class="is-active">GeneLab Data Repository</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#5" data-drupal-link-system-path="node/590" class="is-active">Environmental Data</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#6" data-drupal-link-system-path="node/590" class="is-active">Data Visualization of the GeneLab Data System</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#7" data-drupal-link-system-path="node/590" class="is-active">User Account</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#9" data-drupal-link-system-path="node/590" class="is-active">Collaborative Workspace </a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#10" data-drupal-link-system-path="node/590" class="is-active">Integrated Search and Federation APIs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/tutorials/usermanual#11" data-drupal-link-system-path="node/590" class="is-active">Data Submission Portal</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/guidelines-data-submission-osdr" data-drupal-link-system-path="node/1130">Guidelines for Data Submission to OSDR</a>
+              </li>
+                <li class="menu-item">
+        <a href="/getting-started-aws-and-osdr-data" data-drupal-link-system-path="node/1096">Getting Started with AWS and OSDR Data</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://131.110.128.77/sites/default/files/2024-03/Data%20Visualization%20Portal%20JT_AU.pdf">Data Visualization Portal</a>
+              </li>
+                <li class="menu-item">
+        <a href="/genelab-high-schools-gl4hs-summer-internship" data-drupal-link-system-path="node/914">GeneLab for High Schools (GL4HS)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/genelab-universities-gl4u" data-drupal-link-system-path="node/913">GeneLab for Universities and Colleges (GL4U)</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/help/troubleshooting" data-drupal-link-system-path="node/173">Troubleshooting Tips for GLDS</a>
+              </li>
+                <li class="menu-item">
+        <a href="/help/contact" data-drupal-link-system-path="webform/contact_genelab">Contact GeneLab</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </aside>
+        		
+        <div class="content col-lg-9 col-md-9 col-sm-12 col-xs-12">
+          
+
+          
+                    
+
+          
+
+          
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">GeneLab User Manual</span>
+</h1>
+
+
+  </div>
+<article data-history-node-id="590" role="article" about="/help/tutorials/usermanual" typeof="schema:WebPage">
+
+  
+      <span property="schema:name" content="GeneLab User Manual" class="rdf-meta hidden"></span>
+
+
+  
+  <div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.toc li {
+    margin-bottom:10px;
+}
+table, th, td {
+    padding: 5px;
+    border: 1px solid #000;
+}
+
+/*--><!]]]]]]><![CDATA[><![CDATA[>*/
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><p>Version 3.0<br />
+February 2021</p>
+
+<p><img alt="image" height="1" src="/sites/default/files/usermanual_files/Image_004.png" width="513" /></p>
+
+<h2>Table of Contents</h2>
+
+<ul class="toc"><li><strong><a href="#1">What is GeneLab?</a></strong></li>
+	<li><strong><a href="#2">An Overview of the User Interface</a></strong><br /><a href="#2-1">GeneLab Home Page</a><br /><a href="#2-2">GeneLab Data System Menu Selection</a></li>
+	<li><strong><a href="#3">Search Utility in GeneLab Data System</a></strong><br /><a href="#3-1">Search Bar</a><br /><a href="#3-2">Search Filters</a><br /><a href="#3-3">Data Integration / Federation for Search Bar</a></li>
+	<li><strong><a href="#4">GeneLab Data Repository</a></strong><br /><a href="#4-1">Metadata User Interface</a></li>
+	<li><strong><a href="#5">Environmental Data</a></strong></li>
+	<li><strong><a href="#6">Data Visualization of the GeneLab Data System</a></strong></li>
+	<li><strong><a href="#7">User Account</a></strong><br /><a href="#7-1">Setting up a User Account</a></li>
+	<li><strong><a href="#9">Collaborative Workspace</a></strong><br /><a href="#9-1">Workspace User Interface</a><br /><a href="#9-2">Manage folders and files</a><br /><a href="#9-3">Upload files and manage storage</a><br /><a href="#9-4">Copy/Move folders and files</a><br /><a href="#9-5">Share data and manage groups</a></li>
+	<li><strong><a href="#10">Integrated Search and Federation APIs</a></strong></li>
+	<li><strong><a href="#11">Data Submission Portal</a></strong></li>
+</ul><p> </p>
+
+<p><a id="1"></a></p>
+
+<h3>What is GeneLab?</h3>
+
+<p>The GeneLab project is both a science collaboration initiative as well as a data system that provides a collaborative workspace with tools to analyze and visualize space relevant omics data. Our primary goal is to maximize the utilization of the valuable biological research conducted aboard the International Space Station (ISS) by collecting genomic, transcriptomic, proteomic, and metabolomics data known as “omics”. One important aspect of GeneLab’s primary goal is to help the scientific community and the population at large gain new knowledge from space omics data. By providing a portal linking processed data to flight parameters, GeneLab enables exploration of the molecular network responses of terrestrial biology to the space environment. This allows researchers to understand the complex responses of biological systems to the space environment. GeneLab data will be useful for the development of countermeasures, monitoring the microbes that colonize the space station, understanding how plants (food) could be modified to grow better in space, and unraveling the responses of humans and other organisms to the combined effects of altered gravity and space radiation.</p>
+
+<p><a id="2"></a></p>
+
+<h3>An Overview of the User Interface</h3>
+
+<p><a id="2-1"></a></p>
+
+<p><strong>GeneLab Home Page: https://genelab.nasa.gov/</strong></p>
+
+<p><img alt="GeneLab home" data-entity-type="file" data-entity-uuid="b42c87a1-ab8a-4057-b9c5-0cf61a2189d7" src="/sites/default/files/inline-images/genelab_home_page.png" width="1796" height="831" loading="lazy" /></p>
+
+<p><strong>① Navigation menu </strong>– click on any of the options to navigate through the different pages</p>
+
+<ul><li><strong>Home: </strong>GeneLab home page includes the navigation menu, Latest data releases, Latest news, Spotlight features, Research opportunities and recent publications.</li>
+	<li><strong>About: </strong>Click on the about page to learn more about the GeneLab project, International Space Station, space biology experiments, GeneLab’s Analysis Working Groups, our sponsors, and archived newsletters.</li>
+	<li><strong>Data &amp; Tools:</strong> Links to all the available data and tools, including the Data Repository, Environmental Data, and Collaborative Workspace.</li>
+	<li><strong>Research &amp; Resources:</strong> Links to publications, internship resources and other related NASA resources.</li>
+	<li><strong>Working Groups:</strong> Links to GeneLab’s Analysis Working Group (AWG) and Visualization Working Group (VWG).</li>
+	<li><strong>Help:</strong> Links to all the featured tutorials, Frequently Asked Questions (FAQs), and GeneLab contact information.</li>
+</ul><p><strong>② GeneLab Data Systems buttons</strong></p>
+
+<p>Click on the featured buttons to navigate through the different pages and tools. These links will direct you to the Data Repository, Environmental Data, Collaborative Workspace, data submission webpage, and data visualization webpage.</p>
+
+<p><em>Explore the GeneLab home page by scrolling down to find more information about the latest data releases, news, and events.</em></p>
+
+<p><img alt="GeneLab Latest News" data-entity-type="file" data-entity-uuid="52977196-c5b0-4a6d-8651-63421bec36d1" src="/sites/default/files/inline-images/genelab_latest_news.jpg" width="655" height="818" loading="lazy" /></p>
+
+<p> </p>
+
+<p><a id="2-2"></a></p>
+
+<p><strong>GeneLab Data Repository Menu Selection: <a href="https://genelab-data.ndc.nasa.gov/genelab/">https://genelab-data.ndc.nasa.gov/genelab/</a></strong></p>
+
+<p><img alt="Example: GeneLab Data Repository landing page" data-entity-type="file" data-entity-uuid="7aeae8a6-b621-4341-83d5-80c1529d54ed" src="/sites/default/files/inline-images/GLDS_home_page_0.png" class="align-left" width="1463" height="941" loading="lazy" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>① GLDS Navigation menu – click on any of the options to navigate through the different pages</p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>Home:</b> GeneLab home page includes the navigation menu, Latest data releases, Latest news, Spotlight features, Research opportunities and recent publications.</span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>About:</b> Click on the about page to learn more about the GeneLab project, International Space Station, space biology experiments, GeneLab’s Analysis Working Groups, our sponsors, and archived newsletters. </span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>Data &amp; Tools:</b> Links to all the available data and tools, including the Data Repository, Environmental Data, and Collaborative Workspace. </span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>Research &amp; Resources:</b> Links to publications, internship resources and other related NASA resources.</span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>Working Groups: </b>Links to GeneLab’s Analysis Working Group (AWG) and Visualization Working Group (VWG).</span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Arial,sans-serif"><b>Help:</b> Links to all the featured tutorials, Frequently Asked Questions (FAQs), and GeneLab contact information.</span></span></span></p>
+
+<p>② Search Bar – provides the ability to perform searches across several omics databases, including GeneLab, NIH GEO, EBI PRIDE, and/or ANL MG-RAST.</p>
+
+<p>③ Search Filters – provides the ability to search the GeneLab repository using filters such as ground vs. spaceflight studies, study factors, study organisms, and study assay type.</p>
+
+<p>④ Data Visualization Dashboard – provides a visual representation of all the datasets housed in the GeneLab repository</p>
+
+<p><a id="3"></a></p>
+
+<h2>Search Utility in GeneLab Data System</h2>
+
+<p><a id="3-1"></a></p>
+
+<h3>Search Bar</h3>
+
+<p>GeneLab Data Repository provides users a full-text search capability of the metadata for all datasets. Full-text search terms can be a single word or multiple words with either Boolean, wildcards (asterisks *), and/or string (text) literals. Note that the searches are case-insensitive with respect to search term(s). To perform a search, enter a keyword or set of keywords, in the search box and either press ‘Enter’ or use your mouse to select the magnifying glass icon.</p>
+
+<p><img alt="search example" data-entity-type="file" data-entity-uuid="6e09ab95-22f7-4e44-bb29-9defad2493fb" src="/sites/default/files/inline-images/search_bar_0.png" class="align-left" width="1440" height="934" loading="lazy" /></p>
+
+<p> </p>
+
+<p>Search results can be sorted by relevance, release date, source, and title with either ascending or descending orders. In addition, to see an overview of the study metadata, click on the “ “ arrow, (near the right margin, circled in red above) to show highlighted keyword search relevance.</p>
+
+<p>Click on a <strong>title</strong> to show the detailed metadata for that study. Use the page navigator on the top right corner to go the next page of search results. Below are some examples of searches.</p>
+
+<p><strong>Single term search:</strong></p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="289bdfef-281e-4372-83f9-46f6825741c4" src="/sites/default/files/inline-images/single.png" width="1404" height="872" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Search results from searching the single term ‘genome’</em></p>
+
+<p><strong>Multiple term search:</strong></p>
+
+<p>An example of a multiple term search is shown below. Search results will contain all of the search terms.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="16f16fb9-deb8-4ac3-94a7-72bbbb397b25" src="/sites/default/files/inline-images/multiple.png" width="1414" height="838" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Search results from searching on multiple terms ‘genome sequencing’</em></p>
+
+<p>If multiple words are in double quotations then those words must match exactly in the order given, as shown below:</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="5bdcd81b-ffa5-449f-ae49-20032e6d0726" src="/sites/default/files/inline-images/multiple_0.png" width="1414" height="838" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Search results from searching the exact term “genome sequencing” by using quotation marks</em></p>
+
+<p>Boolean operators (see table below) can be included with the search terms.</p>
+
+<p><strong>Boolean Operators</strong></p>
+
+<table cellspacing="0"><tbody><tr><td bgcolor="#EFEFEF">
+			<p><strong>Operator</strong></p>
+			</td>
+			<td bgcolor="#EFEFEF"> </td>
+		</tr><tr><td>
+			<p>AND</p>
+			</td>
+			<td>
+			<p>ALL search terms must be present (default Boolean search) </p>
+			</td>
+		</tr><tr><td>
+			<p>OR</p>
+			</td>
+			<td>
+			<p>ANY of your search terms can be present</p>
+			</td>
+		</tr><tr><td>
+			<p>NOT</p>
+			</td>
+			<td>
+			<p>Exclude words from your search</p>
+			</td>
+		</tr></tbody></table><p> </p>
+
+<p>Below is a search using the ‘AND’ operator. Note that the resulting set is the same as searching for the terms ‘genome’ and ‘sequencing’ without the operator.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="314e538e-4291-48c2-aeda-50d16979b773" src="/sites/default/files/inline-images/with_and.png" width="1426" height="840" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Search results from using ‘AND’ operator to search on both terms ‘genome’ and ‘sequencing’</em></p>
+
+<p>Please note that you may not use both the Boolean operators and double quotations together.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="9dd85346-3fac-4286-b86b-75c3c1be56b0" src="/sites/default/files/inline-images/no_quotes.png" width="1430" height="572" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> No search results due to using incorrect techniques</em></p>
+
+<p><strong>Other search techniques:</strong></p>
+
+<ul><li>Exclude studies containing term(s) from your search using the minus prefix (-). This is the same as using the NOT operator.<br /><strong>Example:</strong> genome sequencing –mouse
+
+	<p> </p>
+	</li>
+	<li>Require term(s) in your search using the plus prefix (+). This is the same as using the AND operator.<br /><strong>Example: </strong>genome sequencing +bacillus 10
+	<p> </p>
+	</li>
+	<li>Search on unspecified portions of search terms using an asterisk (*)<br /><strong>Example:</strong> geno* sequencing
+	<p> </p>
+	</li>
+</ul><p>In addition to searching the GeneLab Data Repository, federated data repositories can be included in the search as well. See below for more information on the federated data repositories.</p>
+
+<p><a id="3-2"></a></p>
+
+<h3>Search Filters</h3>
+
+<p>GeneLab also provides some filters to assist in searching the GeneLab repository. The filters include: Project Type, Factors, Organisms, and Assay Types. The menus for each category are pre-populated with terms from datasets included in the GeneLab repository.</p>
+
+<p>Note that you can use the filters without using any additional search terms.</p>
+
+<p>Currently the search filters only work on filtering data housed in the GeneLab data repository.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="17c77512-370d-49ea-8da4-1e2b653b5de4" src="/sites/default/files/inline-images/search_filters.png" width="1416" height="412" loading="lazy" /></p>
+
+<p>Selecting a filter box opens a list of choices for that filter. Each time a filter is selected, the filter is immediately applied, possibly changing the number of search results shown. As the filter values are added, they are displayed as text above the results. The user can select multiple options from the same filter type. For example, filter your search by selecting ‘microgravity’ and then ‘age’ from the Factors menu. GeneLab searches for those studies that have either ‘microgravity’ OR ‘age’ factors.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="7a1d4e0b-e477-4172-9e93-d84f409b79f2" src="/sites/default/files/inline-images/factors.png" width="1414" height="856" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Filter Search by selecting 'Microgravity' and 'Age' under Factors</em></p>
+
+<p>Multiple types of filters may be applied to a query to find studies that have values from all selected filter types. For example, when applying the factor type filter options ‘microgravity’ and ‘age’ the results contain one or both terms. Adding a different type of filter, such as organism ‘microbiota’, will include only data sets containing ‘microbiota’ organisms AND whose factors include ‘microgravity’ or ‘age’.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="3670b761-7199-4baa-89f0-89872e2a8db5" src="/sites/default/files/inline-images/organisms.png" width="1408" height="754" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Filter Search by selecting 'Microgravity' or 'Age' under Factors AND ‘Microbiota’ under Organism</em></p>
+
+<p>Users can change selected filter terms by either selecting the filter again from the drop-down menu or by selecting the ‘Clear’ button. Each selected filter is applied until it is de-selected or all filters are cleared. Note that the ‘Clear’ button only clears the filter terms and does not remove text search term(s) entered above the filters.</p>
+
+<p><a id="3-3"></a></p>
+
+<h3>Data Integration / Federation for Search Bar</h3>
+
+<p>GeneLab has integrated, commonly termed as data federation, with multiple heterogeneous external databases. Users can search across multiple databases in addition to GeneLab. The links in the federated search results are to the authoritative external databases.</p>
+
+<p>GeneLab is currently federated with:</p>
+
+<ul><li><a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank">The National Institutes of Health (NIH) Gene Expression Omnibus </a><a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank">(GEO)</a></li>
+	<li><a href="https://www.ebi.ac.uk/pride/archive/" target="_blank">The European Bioinformatics Institute (EBI) Proteomics Identification </a><a href="https://www.ebi.ac.uk/pride/archive/" target="_blank">(PRIDE)</a></li>
+	<li><a href="http://metagenomics.anl.gov/" target="_blank">The Argonne National Laboratory (ANL) Metagenomics Rapid Annotations using Subsystems Technology </a><a href="http://metagenomics.anl.gov/" target="_blank">(MG-RAST)</a></li>
+</ul><p>The GeneLab repository does not contain copies of the data sets found in the external databases but, instead GeneLab maintains metadata records (e.g., information about the data) of the external data sets. These records are automatically updated on a nightly basis to keep the GeneLab database search content up to date with the external databases.</p>
+
+<p>As noted earlier, currently the search filters only work with the GeneLab database.</p>
+
+<p>To search in one or all of these databases, enter text search term(s) and select the desired databases as shown below. To execute the search, press Enter or click the magnifying glass icon. Federated search results are then shown. You may change the database selection(s) at any time and the search results will be updated accordingly.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="ceb9083e-2b53-4a69-a643-e03cb163bf1d" src="/sites/default/files/inline-images/data_federation.png" width="1410" height="748" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Data federation example, searching across multiple data repositories</em></p>
+
+<p><a id="4"></a></p>
+
+<h2>GeneLab Data Repository: https://genelab.nasa.gov</h2>
+
+<div title="Page 14">
+<div>
+<div>
+<p>Another way to access GeneLab data is to select “Data Repository” on the home page.</p>
+</div>
+</div>
+</div>
+
+<p><img alt="GeneLab home" data-entity-type="file" data-entity-uuid="8814a107-953f-4b1e-b2ac-c7aa4e53b630" src="/sites/default/files/inline-images/access_GLDS.png" width="1454" height="564" loading="lazy" /></p>
+
+<div title="Page 14">
+<div>
+<div>
+<p>You can then browse the data repository by using the various search techniques discussed above or navigate through the list by scrolling. To select a study, click on the study icon or title, which will direct you to that study’s metadata and data files. An example is shown below.</p>
+</div>
+</div>
+</div>
+
+<p><img alt="​​example" data-entity-type="file" data-entity-uuid="c46e8d0b-fdde-46af-9d70-8e6583c7b88a" src="/sites/default/files/inline-images/browse.png" width="1448" height="670" loading="lazy" /></p>
+
+<p> </p>
+
+<p><a id="4-1"></a></p>
+
+<h3>Metadata User Interface</h3>
+
+<p>Study metadata are viewable through a tabbed user interface for each study (see below). Click on each tab to navigate through the different sections: <em>Description, Protocols, Sample and Assay Tables, Publications </em>and <em>Study Files.</em></p>
+
+<div title="Page 14">
+<p>The <em><strong>Description</strong></em> tab provides an overview of the study including a text description, contact information, experimental factors, organism(s), type of assay(s), project and/or mission details, funding information and citation information.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="47eb7e83-0efa-4256-aef5-f68af8c88fbc" src="/sites/default/files/inline-images/GLDS-319.png" width="1420" height="706" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Description view for GeneLab dataset, GLDS-319.</em></p>
+
+<p>The <em><strong>Protocols</strong></em> tab provides the names and detailed descriptions of the sample collection, library construction, assay, treatment and any other protocol(s).</p>
+
+<p>The <em><strong>Samples and Assays</strong></em> tabs provides sample and assay level details formatted in a navigatable table. Information found in these tabs include specific organism characteristics, study factors and treatments, sample and sample processing metadata, assay execution paramenters, and data processing metadata. Use the bottom navigation bar to scroll through all the columns, and the right margin scroll bar to navigate the rows.</p>
+
+<p><strong><em>Filtering</em></strong></p>
+
+<p>Click the <img alt="image" height="23" src="/sites/default/files/usermanual_files/Image_021.jpg" width="12" /> button to sort or filter the values in one or more columns. Use <em>Sort Ascending</em> or <em>Sort Descending</em> to sort the values in the column. Click on <em>Columns</em> to hide (uncheck) or show (check) columns within that table; by default all columns are shown. To filter values for one or more columns, use the options under <em>Filter</em> and enter the desired value(s) or value ranges. See example below.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="85f04b8e-e788-41a6-a23b-8c1823cbadb6" src="/sites/default/files/inline-images/sort.png" width="1248" height="638" loading="lazy" /></p>
+
+<p><strong>Example:</strong> A GeneLab dataset, GLDS-319, sample name tab and sort/filter functions.</p>
+
+<p> </p>
+
+<p><strong><em>Exporting tables to csv</em></strong></p>
+
+<p>Users can download selected columns from the Samples and/or Assays table. Click on the <strong>Select Export Columns </strong>button. Select the desired columns and click <strong>Export CSV.</strong></p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="bd9760c7-8c72-4835-92dc-c972ffca3a93" src="/sites/default/files/inline-images/export.png" width="1632" height="904" loading="lazy" /></p>
+
+<div title="Page 16">
+<div>
+<p>The <em><strong>Publications</strong></em> tab contains relevant publication(s), which contain the metadata of interest, and also include title, authors and link(s).</p>
+
+<p>The <em><strong>Study Files </strong></em>tab provides metadata, raw and/or processed study data files. Each row includes information about the size, type, and description of the file set. Click on the file name to download. You can download multiple files by clicking the checkbox at the left of the file name to select and then clicking the “Download Selected Files” button. To select all files in a resource category, navigate to the desired folder by selecting the folder name and then click on the checkbox at the top of the table, next to the Files column name.</p>
+
+<p>Use the <img alt="image" height="23" src="/sites/default/files/usermanual_files/Image_021.jpg" width="12" /> button to sort or to filter the values in one or more columns.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="08bb08b9-62fe-4bac-86fd-8398ff724dfe" src="/sites/default/files/inline-images/filter.png" width="1536" height="566" loading="lazy" /></p>
+
+<p><strong><em>Example:</em></strong><em> Study files view and sort/filter functions for GeneLab dataset, GLDS-319. </em></p>
+
+<p> </p>
+<a id="5"></a>
+
+<h2>Environmental Data</h2>
+
+<p>GeneLab has incorporated additional data to support spaceflight experiments. These data include environmental data from the spacecraft or payloads (hardware). Currently, GeneLab has gathered radiation dosimetry data from spaceflight experiments and provides a complete table for several spacecrafts under the ‘Environmental Data’ menu option.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="ce1ceee5-727b-4007-8fb9-02d22679162b" src="/sites/default/files/inline-images/environmental_0.png" width="1706" height="812" loading="lazy" /></p>
+
+<p>Select an option from the left menu to display the environmental data available for GeneLab studies from that spacecraft dosimetry. For example, below is the table from STS (Space Shuttle Radiation Dosimetry).</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="7518836e-9c13-47f8-8a1e-2067970c40da" src="/sites/default/files/inline-images/radiation_table.png" width="1706" height="1194" loading="lazy" /></p>
+
+<p>In addition, users can find radiation dosimetry details per sample within the sample table for available space flown GeneLab study. To access this data, click on the desired GLDS number on the table and navigate to the Samples tab.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="cef90ab8-9fd7-4baa-abb6-b3fe0b65faf5" src="/sites/default/files/inline-images/export_columns.png" width="1412" height="898" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Radiation metadata for GeneLab dataset GLDS-63 through the samples tab. </em></p>
+
+<p> </p>
+<a id="6"></a>
+
+<h2>Data Visualization</h2>
+
+<p>The Data Visualization tab provides a list of GeneLab datasets studies that contain visualizations.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="5e75a418-039a-430a-833b-d209397a2d36" src="/sites/default/files/inline-images/data_viz_1.png" width="1442" height="560" loading="lazy" /></p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="f6a79673-042b-48fc-9dfd-e0e7fa039c75" src="/sites/default/files/inline-images/data_viz_2.png" width="1434" height="678" loading="lazy" /></p>
+
+<p><strong><em>Example:</em></strong><em> All studies with visualizations shown after clicking on the data visualization tab from the homepage. </em></p>
+
+<p>To navigate to the visualization menu, select the study and click on the visualization tab on the left menu.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="0d9930a8-dc66-4a7e-ad78-f3dbc4a88113" src="/sites/default/files/inline-images/data_viz_3.png" width="1424" height="244" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Results after selecting the GLDS-289 number followed by the visualization tab. </em></p>
+
+<p>Visualization menu – click on any of the options to navigate through the different tabs.</p>
+
+<p><strong>PCA:</strong> Principal component analysis shows clusters of samples based on their similarity. Click on samples to the right to select the desired samples to be viewed on the PCA plot. Icons on the upper right region of the plot allow for downloading, navigating and saving the plot.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="e215769b-882a-4e8d-b162-9af10f4d7fdf" src="/sites/default/files/inline-images/data_viz_4.png" width="1286" height="706" loading="lazy" /></p>
+
+<p><strong><em>Example:</em></strong><em> Two of six samples selected for viewing in the PCA plot with navigation icons on the upper right for GLDS-289. </em></p>
+
+<p><strong>Query Data:</strong> Provides the normalized gene expression values for microarray datasets and normalized count values for RNA-seq datasets for each sample in the dataset. Drop down menus allow for gene and comparison type selection along with sorting of results, selection of the maximum adjusted p-value and number of genes.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="9970997e-12d9-4a2a-8e17-b2c03129fcd4" src="/sites/default/files/inline-images/data_viz_5.png" width="1320" height="638" loading="lazy" /></p>
+
+<p><strong><em>Example:</em></strong><em> Comparison between two samples with specific adjust p-value and maximum number of genes for GLDS-289. </em></p>
+
+<p><strong>Pair Plots:</strong> Allows for the visualization of both distribution of single variables and relationships between two variables. Drop-down menu allows for comparisons between any two samples.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="e6b0dafa-dbd3-47f4-b6ea-741873d3442e" src="/sites/default/files/inline-images/data_viz_6.png" width="1248" height="728" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Comparison between a ground control sample and a flight sample for GLDS-289. </em></p>
+
+<p><strong>Volcano Plots: </strong>Type of scatter plot that shows statistical significance (p-value) vs magnitude of change (fold change). Enables quick identification of genes with large fold changes that are also statistically significant. Drop-down menu allows for selection of parameters, samples for comparison and maximum adjusted p-value.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="da2e0bd4-cf98-41b5-ad6e-1af04d77d2df" src="/sites/default/files/inline-images/data_viz_7.png" width="1242" height="778" loading="lazy" /></p>
+
+<p><strong><em>Example:</em></strong><em> Two samples selected for comparison with specific parameters for GLDS-289.</em></p>
+
+<p><strong>Dendrogram:</strong> A tree diagram showing how the individual genes and samples will cluster together. Drop-down menus allow for the selection of specific parameters, samples for comparison, maximum p-value and maximum number of genes.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="27701b95-213a-40cc-ae20-cdccfcd2d2dc" src="/sites/default/files/inline-images/data_viz_8.png" width="1236" height="804" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Two samples selected for comparison with specific parameters for GLDS-289.</em></p>
+
+<p><strong>Heatmap:</strong> Graphical representation of the individual samples displaying how the overall genes are up and down regulated across all samples in the dataset. Clustering of both the genes and the samples are also displayed. Drop-down menu allows for the selection of samples for comparison and the maximum number of genes displayed.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="d4060e93-edb5-454f-87e8-2c57ca834a76" src="/sites/default/files/inline-images/data_viz_9.png" width="1260" height="1194" loading="lazy" /></p>
+
+<p><em><strong>Example:</strong> Two samples selected for comparison for GLDS-253. </em></p>
+
+<p><strong>Splot: </strong>Allows a user to determine how the genes in each dataset are impacting overall pathways. This interactive plot allows a user to adjust both significance and fold-change values to show which pathways are potentially being impacted for the dataset. Drop down menu allows for the selection of a specific pathway, while the sliders allow for selection of fold-change and p-value.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="342349ba-b50b-427a-83bf-911174a98a35" src="/sites/default/files/inline-images/data_viz_10.png" width="1212" height="1148" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>Comparison of 1-phosphotidylinositol 3-kinase activity between two samples within GLDS-289. </em></p>
+
+<p> </p>
+<a id="7"></a>
+
+<h2>User Account</h2>
+
+<p>The GeneLab Data System provides various tools: Collaborative Workspace and GeneLab Environment for Online Data Entry (GEODE). To access these tools, users must create an account using a Google login or NASA credentials. Once created, this account information is shared across all the tools.</p>
+<a id="7-1"></a>
+
+<h3>Setting up a User Account</h3>
+
+<p>To create a NASA Collaborative Workspace and/or GEODE user account, click on the tool button on the home page or under Data &amp; Tools in the top menu.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="68c84382-c3e3-4bed-950c-53493f686cd1" src="/sites/default/files/inline-images/user_account_1.png" width="1468" height="566" loading="lazy" /></p>
+
+<p>For example, click on Collaborative Workspace to create an account and login.</p>
+
+<ol><li>On the login page (shown below), use the Sign in with Google or NASA LaunchPad button to login.<img alt="example" data-entity-type="file" data-entity-uuid="b219b5e1-8291-4207-a3bc-453bd1dc425b" src="/sites/default/files/inline-images/user_account_2.png" width="1408" height="742" loading="lazy" /><p> </p>
+	</li>
+	<li>For Google login, if you don’t already have an account, create an account by selecting the “here” link circled in the image below and following the steps.
+	<p> </p>
+	<img alt="example" data-entity-type="file" data-entity-uuid="f19130a9-4a87-4f69-8e6d-c19a51cfd563" src="/sites/default/files/inline-images/user_account_3.png" width="1384" height="724" loading="lazy" /><p> </p>
+	</li>
+	<li>
+	<p>Once you have a Google ID, select the <strong>Sign in with Google </strong>button and use your google account to login (example below).</p>
+	<img alt="example" data-entity-type="file" data-entity-uuid="e294c2a0-face-4d2b-9c17-b2e2b240e589" src="/sites/default/files/inline-images/user_account_4.png" width="1384" height="718" loading="lazy" /><p> </p>
+	</li>
+	<li>A NASA Guest Account Registration page opens up. Click, <strong>Yes Register Google Account </strong>to continue.
+	<p> </p>
+	<img alt="example" data-entity-type="file" data-entity-uuid="e740edbb-df08-445f-aae9-6d067911af94" src="/sites/default/files/inline-images/user_account_5.png" width="1738" height="1012" loading="lazy" /><p> </p>
+	</li>
+	<li>You have now successfully registered your Google account with NASA.<img alt="example" data-entity-type="file" data-entity-uuid="9a1bb853-d047-4038-a5e4-5d0a469f1f27" src="/sites/default/files/inline-images/user_account_6.png" width="1734" height="454" loading="lazy" /><p> </p>
+	</li>
+	<li>Navigate back to the Collaborative Workspace (https://genelab-data.ndc.nasa.gov/genomespace-sso- login/) login page.<img alt="example" data-entity-type="file" data-entity-uuid="a1d807ed-1dbd-4ebb-8561-3de32abce0d6" src="/sites/default/files/inline-images/user_account_7.png" width="1390" height="714" loading="lazy" /><p> </p>
+	</li>
+	<li>Click on the <strong>Sign in with Google </strong>button. Select the registered Google account and it will direct you to the GeneLab tool.<br />
+	Note: You only have to register your Google account once with NASA. Once registered, you can use this google account to log in to both tools.
+	<p> </p>
+	</li>
+	<li>If you are a NASA LaunchPad user, click on the NASA LaunchPad Authenticate button (outlined in red below).<img alt="example" data-entity-type="file" data-entity-uuid="af8f1ffd-a933-4be1-b599-a28acf7a0152" src="/sites/default/files/inline-images/user_account_8_0.png" width="2030" height="1102" loading="lazy" /><p> </p>
+	</li>
+	<li>You my use any of the options (Smartcard, RSA Token, or Agency User ID) to log in. Enter your information and it will direct you to the GeneLab tool.
+	<p> </p>
+	</li>
+</ol><p><img alt="example" data-entity-type="file" data-entity-uuid="95863a63-6aa1-45a1-ad3a-00563ab46c7b" src="/sites/default/files/inline-images/user_account_9.png" width="1736" height="806" loading="lazy" /></p>
+<a id="8"></a>
+<p> </p>
+<a id="9"></a>
+
+<h2>Collaborative Workspace</h2>
+
+<p>GeneLab provides each user with a workspace to manage files and access data analysis tools. To access the workspace, users will need to create an account. Within this framework, users can share data files and analysis results with other users and/or groups, have access to the data in the GeneLab public repository, and data analysis tools.</p>
+
+<p> </p>
+
+<ol><li>On the GLDS home page, select <strong>Collaborative Workspace</strong><img alt="example" data-entity-type="file" data-entity-uuid="869c8c68-5a18-4842-a4d5-ffca262091e4" src="/sites/default/files/inline-images/collaborative_workspace_01.png" width="1448" height="562" loading="lazy" /><p> </p>
+	</li>
+	<li>Log in using your Google account or NASA credentials. <em>See User Account section above.</em>
+	<p> </p>
+	</li>
+	<li>The Collaborative Workspace home page (https://genelab-data.ndc.nasa.gov/jsui) opens and includes a <em>Welcome to NASA GeneLab</em> popup (shown below).<img alt="example" data-entity-type="file" data-entity-uuid="1325e6ab-05b6-4133-a789-41bcb7b89b46" src="/sites/default/files/inline-images/collaborative_workspace_02.png" width="1356" height="732" loading="lazy" /><p> </p>
+	</li>
+	<li>Click <strong>Close</strong> or the <strong>“x”</strong> at the top right of the popup to dismiss the welcome dialog box.
+	<p> </p>
+	</li>
+</ol><a id="9-1"></a>
+
+<h3>Workspace User Interface</h3>
+
+<p><a href="https://genelab-data.ndc.nasa.gov/jsui/">https://genelab-data.ndc.nasa.gov/jsui/</a></p>
+
+<p>The following is a description of the features of the GeneLab Workspace home page.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="578b9c7e-ec13-43a7-b019-8d8cb8b3e40e" src="/sites/default/files/inline-images/collaborative_workspace_03.png" width="1662" height="770" loading="lazy" /></p>
+
+<p><em><strong>Example: </strong>GeneLab Collaborative Workspace</em></p>
+
+<p>① Left directories panel – provides an overview of directories and files<br /><strong>User private folder:</strong> username folder (spaceBio in this example) contains folders and files visible only to the user<br /><strong>Shared folder:</strong> Shared to username folder contains folders and files shared from other users</p>
+
+<p>② Main files panel – lists the files within a selected folder</p>
+
+<p>③ Navigation menu – organizes functions for managing files and groups, launching tools, accessing user guides, and links to the GeneLab Data Repository</p>
+
+<p>④ Toolbar – displays tools and data sources as interactive icons that, when clicked, will launch the tool</p>
+
+<p>⑤ ‘Right-click’ pop-up menu – provides menu options to manage selected file(s) or folder</p>
+
+<p>⑥ Search bar – searches folders and file names for descriptions and tags within your workspace</p>
+
+<p>⑦ User profile – click here to find profile information, history, and to log out</p>
+<a id="9-2"></a>
+
+<h3>Manage folders and files</h3>
+
+<p>Use the <strong>left directories panel </strong>to manage your private and shared folders and to expand the public folder. Click on the folder icon to expand or collapse the folder. You can manage your 32 Last updated: 2/2021 Last updated: 2/2021 folders by clicking on the triangle icon to the right of the folder name (circled below), by right- clicking on the folder name, or by selecting the folder and using the <em><strong>File</strong></em> menu.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="a8c9f681-b177-4ed8-873d-9f0880b388b6" src="/sites/default/files/inline-images/collaborative_workspace_04.png" width="1706" height="660" loading="lazy" /></p>
+
+<blockquote>
+<p><strong><em>Upload</em></strong> function will prompt a pop-up informing the user to drag and drop file(s) into the workspace folder</p>
+
+<p><strong><em>Create Subdirectory</em></strong> creates a folder under the selected folder</p>
+
+<p><strong><em>View directory link</em></strong> provides a web link to the selected folder</p>
+
+<p><strong><em>Sharing</em></strong> provides options to share folder with colleagues and permission settings Use Tags to add searchable terms to your folder</p>
+
+<p><strong><em>Rename </em></strong>option can be used to edit or update a folder name</p>
+
+<p><strong><em>Copy/Move </em></strong>function provides the ability to copy or move a folder within your directory structure</p>
+
+<p><strong><em>Delete</em></strong> will delete a folder and all of its contents</p>
+</blockquote>
+
+<p>Folder menu options are also available by right-clicking on the folder in the <strong>main files panel </strong>or selecting the folder and using the <em><strong>File </strong></em>menu.</p>
+
+<p>Navigate to the desired directory or subdirectory. In the <strong>main files panel</strong>, manage your files by right-clicking on the folder name, or by selecting the file and using the <em><strong>File</strong></em> menu.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="ba5957e9-f800-46b2-8b95-6c5e5ca49ed3" src="/sites/default/files/inline-images/collaborative_workspace_05.png" width="1724" height="880" loading="lazy" /></p>
+
+<p>File menu is similar to the folder function options stated above. Additional functions include:</p>
+
+<blockquote>
+<p><strong><em>Preview </em></strong>text-based files</p>
+
+<p><strong><em>Extract rows or columns</em></strong> from a tab- or comma-delimited file and save to a new file</p>
+
+<p><strong><em>Convert</em></strong> a file to another file format</p>
+
+<p><strong><em>Download</em></strong> the selected file(s) to your local machine</p>
+
+<p><strong><em>Expand Archive</em></strong> will extract the compressed file into a specified directory <em>(option not shown in snapshot)</em></p>
+</blockquote>
+<a id="9-3"></a>
+
+<h3>Upload files and manage storage</h3>
+
+<p>To upload a file to your account, <em>import the file by dragging-and-dropping the file </em>from your local computer to the desired folder or <em>import the file using the URL </em>option (examples shown below).</p>
+
+<p>Drag-and-drop your file from your desktop to the selected directory in the <strong>main file panel. </strong>Drop the file when the selected area is green.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="62feb43d-4559-405c-b1eb-4d67734fd6d2" src="/sites/default/files/inline-images/collaborative_workspace_06.png" width="1762" height="818" loading="lazy" /></p>
+
+<p>Upload progress can be viewed by:</p>
+
+<ol><li>Click on the ‘up arrow’ on the top right of the page next to the profile icon. A pop-up window will provide a history of uploaded files and the status of the current upload
+	<p> </p>
+	</li>
+	<li>
+	<p>Percentage progress bar at the bottom of the browser</p>
+	</li>
+</ol><p>To import from a URL, go to <em>File </em>and select <em>Import from URL. </em>Provide a URL address, copy and paste the link, or drag and drop the URL address. Click the ‘Go’ button.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="2885bbeb-3db4-4f97-9ded-52a864fdf1e0" src="/sites/default/files/inline-images/collaborative_workspace_07.png" width="1698" height="706" loading="lazy" /></p>
+
+<p>A dialog box will open in a new window (see example below), select the destination folder and edit the file name if desired. Click Submit. View percentage progress bar at the bottom of the browser to monitor the file upload status <em>(green: upload in progress; white: upload completed; red: error during upload)</em></p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="d7b143fa-19bc-4236-a025-1fadccf596c8" src="/sites/default/files/inline-images/collaborative_workspace_08.png" width="1670" height="972" loading="lazy" /></p>
+
+<p>Please note, if you exceed the storage quota of <strong>30 GB</strong>, you will receive a pop-up message to remove some files. If your project requires more space, please contact us at <a href="mailto:arc-dl-genelab-it@mail.nasa.gov " target="_blank">arc-dl-genelab-it@mail.nasa.gov </a> with your specific needs and provide justification for your request.</p>
+
+<p>To check how much storage you are using, click on your user account name on the top right- hand corner and select <em>Profile </em>as shown below.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="027b895c-0f48-4311-b00a-6d739f2604f6" src="/sites/default/files/inline-images/collaborative_workspace_09.png" width="1672" height="600" loading="lazy" /></p>
+<a id="9-4"></a>
+
+<h3>Copy/Move folders and files</h3>
+
+<p>Copy and/or move functions are available only to directories for which you have read/write permissions.</p>
+
+<p>To <em><strong>Copy</strong></em> files/folders, you need read permission. Once copied into a private workspace, the user can manipulate the file.</p>
+
+<ul><li>Right-click the file name and select Copy/Move from the pop-up menu. Click Copy.</li>
+	<li>Check the file(s)/folder(s) you want to Copy/Move and select File menu &gt; Copy/Move. Select the destination then click Copy.</li>
+</ul><p>To <em><strong>Move</strong></em> files/folders, you need read and write permissions.</p>
+
+<ul><li>Drag and drop the file/folder into another directory in either the main files panel or the left directories panel.</li>
+	<li>Right-click the file name and select Copy/Move from the pop-up menu. Click Move.</li>
+	<li>Check the file(s)/folder(s) you want to Copy/Move and select File menu &gt; Copy/Move. Select the destination then click Move.</li>
+</ul><p><img alt="example" data-entity-type="file" data-entity-uuid="916f9a26-3b31-498f-8941-9dfb7f33b17c" src="/sites/default/files/inline-images/collaborative_workspace_10.png" width="1976" height="722" loading="lazy" /></p>
+
+<ol><li>Expand the public folder in the left directories panel
+	<p> </p>
+	</li>
+	<li>Select the folder/file to copy and right click and select Copy/Move from the pop-up menu
+	<p> </p>
+	</li>
+	<li>Select the destination and click Copy
+	<p> </p>
+	</li>
+	<li>View file copy progress on the bottom left corner of the browser
+	<p> </p>
+	</li>
+</ol><p>Once completed, the copied folder/file will be available in the selected directory.</p>
+<a id="9-5"></a>
+
+<h3>Share data and manage groups</h3>
+
+<p>You may share folders and data files by inviting your collaborators to sign up for a GeneLab user account or share with other GeneLab users.</p>
+
+<p>To invite your colleagues to join GeneLab, click the <em>Invite a collaborator </em>button on the top of your workspace page (circled in red below).</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="63c8c7c6-898c-44d2-9d0e-e534c9cb06b0" src="/sites/default/files/inline-images/collaborative_workspace_11.png" width="1720" height="274" loading="lazy" /></p>
+
+<p>File and folder sharing settings can be accessed by selecting the file/folder you want to share and selecting <em>File &gt; Sharing </em>or by right-clicking on file/folder then selecting <em>Sharing.</em></p>
+
+<p>The Sharing &amp; Permissions dialog box (shown below) includes:</p>
+
+<ul><li>file/folder name
+	<p> </p>
+	</li>
+	<li>the owner
+	<p> </p>
+	</li>
+	<li>users with which items are shared, including the owner and level of privilege
+	<p> </p>
+	</li>
+	<li><em>Edit Sharing</em> button
+	<p> </p>
+	</li>
+	<li><em>Close</em> button
+	<p> </p>
+	</li>
+</ul><p><img alt="example" data-entity-type="file" data-entity-uuid="0f6d0290-4f82-4e5f-8af6-1b06ba1d0bcd" src="/sites/default/files/inline-images/collaborative_workspace_12.png" width="654" height="552" loading="lazy" /></p>
+
+<p>Click on the <em>Edit Sharing </em>button to open, change, or add sharing and permission settings. The two levels of permissions are <strong>Read</strong>, which allows only copying, and <strong>Read, Write, &amp; Delete</strong>, which allows copying, moving, and editing of the folder/files. An example is shown below.</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="6161704e-f4f2-449b-a49a-1e7055d72c04" src="/sites/default/files/inline-images/collaborative_workspace_03_0.png" width="1662" height="770" loading="lazy" /></p>
+
+<ol><li>Lists the file/folder name to be shared.
+	<p> </p>
+	</li>
+	<li>Lists the shared user or group name(s) and privileges. Click the red x to remove the current permissions.
+	<p> </p>
+	</li>
+	<li>To <strong>Share with User</strong>, enter the username and select the privilege level. To find a user, enter the username or email and select the magnifying glass icon.
+	<p> </p>
+	</li>
+	<li>To <strong>Share with Group</strong>, select a group and the privilege level. To manage groups, click on the <img alt="image" height="23" src="/sites/default/files//sites/default/files/usermanual_files/Image_061.jpg" width="20" /> icon. See next section below.
+	<p> </p>
+	</li>
+	<li>Check the box to notify users or groups of the file(s)/folder(s) to be shared. An email will be sent to those user(s).
+	<p> </p>
+	</li>
+	<li>To save changes, click the <em><strong>Grant Permissions </strong></em>button.
+	<p> </p>
+	</li>
+</ol><p>To manage groups, select <em>Manage</em> from the top navigation menu or click on the icon in the <em><strong>Edit Share &amp; Permission </strong></em>dialog box (from Step 4 above). An example is shown below</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="b13182f9-839a-4756-9e56-e2c213e98813" src="/sites/default/files/inline-images/collaborative_workspace_14.png" width="1706" height="782" loading="lazy" /></p>
+
+<ol><li>List of groups in which you are a member are displayed under <em>Group Names</em>. Click on the group name, to view and edit the group members.<br />
+	  To delete a group, click <em>Delete Selected Group </em>button (admins only)</li>
+	<li>To create a new group, enter the Group name and description and click <em>Add New Group.</em></li>
+	<li>Lists the group members in the selected group from step 1. Click on the red <strong style="color: #FC0004">x</strong> to remove a member from that group.</li>
+	<li>To add a user to the selected group, enter the username. To find a user, click on the magnifying glass and enter the username or email; find and click Select.<br />
+	  Check the <em>User can administrator group </em>box to make a user a group administrator.</li>
+	<li>Click Close. Follow steps 5 and 6 from the section above; Click Grant Permission to save changes.</li>
+</ol><a id="10"></a>
+
+<h2>Integrated Search and Federation APIs</h2>
+
+<p>NASA GeneLab provides a RESTful Application Programming Interfaces (API) to its full-text search, and data and metadata retrieval capabilities. The API provides a choice of standard web output formats, either JavaScript Object Notation (JSON) or Hyper Text Markup Language (HTML), of query results. The GeneLab Data Query API returns metadata on data files associated with dataset(s), including the location of these files for download via https. The GeneLab Metadata Query API returns entire sets of metadata for input dataset accession numbers. The GeneLab Dataset Search API can be used to search dataset metadata by keywords and/or metadata.</p>
+
+<p>Navigate to Data &amp; Tools on the top menu and click on <strong>GeneLab APIs </strong>(<a href="https://genelab.nasa.gov/genelabAPIs" target="_blank">https://genelab.nasa.gov/genelabAPIs</a>)</p>
+
+<p><img alt="example" data-entity-type="file" data-entity-uuid="a05a8102-b1fc-44c7-a8ac-2e252fad2491" src="/sites/default/files/inline-images/api_1.png" width="1652" height="548" loading="lazy" /></p>
+
+<p>Click on the links under Contents to navigate to the instructions and examples for each type of API available.</p>
+<a id="11"></a>
+
+<h2>Data Submission Portal</h2>
+
+<p>The GeneLab Environment for Online Data Entry (GEODE) is a web-based system that accepts submission of omics data from space relevant experiments including spaceflight, radiation, simulated gravity, gravitropism, isolation and confinement, hostile closed environments and/or distance from Earth. GeneLab accepts studies whose design, assays and data types match those listed in the GEODE homepage.</p>
+
+<ol><li>From the GLDS homepage, select Submit Data<br /><img alt="example" data-entity-type="file" data-entity-uuid="25875fdd-1b3e-45d3-b3ac-3f381b89d91a" src="/sites/default/files/inline-images/api_2.png" width="1468" height="578" loading="lazy" /></li>
+	<li>Log in using your email address and password. See User Accounts section above.</li>
+	<li>The GEODE home page (https://genelab-data.ndc.nasa.gov/geode-sso-login/) will open (see below).<img alt="example" data-entity-type="file" data-entity-uuid="20b4225d-e155-495e-9d0e-3e27076812bb" src="/sites/default/files/inline-images/api_3.png" width="1700" height="610" loading="lazy" /><div title="Page 42">
+	<div>
+	<div>
+	<strong><em>Example:</em></strong><em> GEODE homepage after login.</em>
+	</div>
+	</div>
+	</div>
+	</li>
+</ol><p>The following is a description of features of the GEODE home page:</p>
+
+<blockquote>
+<p><strong>GeneLab Home:</strong> Link navigates user to the GeneLab homepage.<br /><strong>Data Repository:</strong> Link navigates user to the GeneLab data repository.<br /><strong>Workspace:</strong> Allows user to manage files.<br /><strong>Tutorials:</strong> Links to all the featured tutorials, Frequently Asked Questions (FAQs), troubleshooting tips for GLDS and contact information for GeneLab.</p>
+</blockquote>
+
+<blockquote>
+<p><strong>All:</strong> shows data that is in various stages of submission.<br /><strong>Submitted:</strong> link allows users to see only data that has been submitted.<br /><strong>In Curation:</strong> link shows only data that is in curation.<br /><strong>In Review:</strong> allows user to only see data that is in review.<br /><strong>Public:</strong> shows all data that is public.</p>
+</blockquote>
+
+<ol><li>GEODE navigation menu – click on any of the options to navigate through the different tabs:</li>
+	<li>My studies – allows user to view current studies submitted via GEODE. Users can logout using the “logout” link.</li>
+	<li>Create new study – link that allows user to create a new study while incorporating experimental factors. The help link to the left provides GeneLab contact information in the event of technical difficulties.</li>
+	<li>“My studies” navigation menu – click on any of the options to navigate through the different tabs:</li>
+	<li>Summary of data corresponding to the link from the “My Studies” navigation menu.</li>
+</ol><p>You can find a tutorial on how to submit data through GEODE using the following link:</p>
+
+<p><a href="/help/tutorials/GEODE">https://genelab.nasa.gov/help/tutorials/GEODE</a></p>
+</div>
+
+<p> </p>
+
+<p>Please review our <a href="https://genelab.nasa.gov/help/faq/" target="_blank">FAQ</a> page or send any inquires/questions to <a href="mailto: arc-dl-genelab-outreach@mail.nasa.gov">arc-dl-genelab-outreach@mail.nasa.gov</a>.</p>
+</div>
+</div>
+</div>
+      
+  </div>
+
+</article>
+
+  </div>
+
+
+          <!---->
+        </div>
+
+              </div>
+    </div>
+  </section>
+
+      
+      <section id="panel_second" class="panel_second">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-1">
+    <div id="block-contactinfo" class="block block-block-content block-block-contente29440d8-09bd-4afe-8080-1f9cc71afa89">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p style="text-align:center; margin:0;"><img alt="NASA GeneLab – Open Science for Life in Spac" data-entity-type="file" data-entity-uuid="3893f31d-02c8-415a-af46-cd4b48ef0f79" src="/sites/default/files/inline-images/GeneLab_patch.png" style="width:250px;" width="1410" height="1416" loading="lazy" /></p>
+</div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-2">
+    <div id="block-newslettersubscribe" class="block block-block-content block-block-content028b2459-1ec4-4eab-ac35-09a298198175">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Follow Us</h2>
+
+<div style="margin-bottom:20px;"><a href="https://www.researchgate.net/project/Omics-for-Space-Biology-The-GeneLab-project" target="_blank"><img alt="ResearchGate" data-entity-type="file" data-entity-uuid="b7a2b568-75b0-457d-baa7-765d9f86fd77" src="/sites/default/files/inline-images/researchgate_logo_0.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://twitter.com/NASAGeneLab" target="_blank"><img alt="Twitter" data-entity-type="file" data-entity-uuid="a540ccaa-f984-4f78-872b-86be9fc82224" src="/sites/default/files/inline-images/twitter_logo.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="http://www.facebook.com/NASAGeneLab" target="_blank"><img alt="Facebook" data-entity-type="file" data-entity-uuid="982393a9-a446-4092-81df-c63ec858909f" src="/sites/default/files/inline-images/facebook_logo.jpg" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://www.youtube.com/channel/UC8fJXt1D8IT4GM4qxKPgUmg" target="_blank"><img alt="YouTube " data-entity-type="file" data-entity-uuid="116bdc10-6e7b-482b-93a2-fb95d7d332ab" src="/sites/default/files/inline-images/youtube_logo_0.png" height="40" width="auto" style="height:40px; margin-right:5px; margin-bottom:14px;" loading="lazy" /></a> <a href="https://www.linkedin.com/company/nasa-genelab/" target="_blank"><img alt="LinkedIn" data-entity-type="file" data-entity-uuid="84b5cbab-eae2-409f-9f2f-28995a6c105e" src="/sites/default/files/inline-images/LinkedIn_0.png" height="40" width="auto" style="height:40px; margin-bottom:14px;" loading="lazy" /></a></div>
+
+<h2>Newsletter Signup</h2>
+<p>Stay up to date with the latest news:</p>
+<ul><li><a id="newsletter-link" href="https://lp.constantcontactpages.com/sl/NIjXkcl">Join our mailing list</a></li></ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-3">
+    <div id="block-contributers" class="block block-block-content block-block-content5c79d52c-d749-4b30-b0d5-599788fdd8f4">
+  
+      <h2>Contacts</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul id="contact"><li>NASA Official: Sylvain Costes</li>
+	<!--<li>Editor: Sonja Caldwell</li>-->
+	<li><a href="/help/contact"><strong>Questions and Feedback</strong></a></li>
+</ul><h2>Site Information</h2>
+
+<ul><li><a href="/overview">NASA GeneLab Overview</a></li>
+	<li><a href="/terms">Terms and Conditions</a></li>
+	<li><a href="https://www.nasa.gov/about/highlights/HP_Privacy.html" target="_blank">NASA Privacy Policy and Notices</a></li>
+</ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-4">
+    <div id="block-usefullinks" class="block block-block-content block-block-content44ac3b91-d181-4acc-8f6f-8d89f711a1a2">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Other Resources</h2>
+
+<ul><li><a href="https://www.nasa.gov/spacebio" target="_blank">NASA Space Biology Program</a></li>
+	<li><a href="https://www.nasa.gov/ames/research/space-biosciences/" target="_blank">NASA Ames Space Biosciences Division</a></li>
+	<li><a href="https://lsda.jsc.nasa.gov/" target="_blank">NASA Life Sciences Data Archive</a></li>
+	<li><a href="https://psi.nasa.gov/" target="_blank">NASA Physical Science Informatics</a></li>
+	<li><a href="https://www.issnationallab.org/" target="_blank" title="Center for the Advancement of Science in Space">Center for the Advancement of Science in Space</a></li>
+</ul></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <a href="#Top" class="btn-btt" title="Back to Top" style="display: block;"></a>          
+
+      <footer id="footer" class="footer" role="contentinfo">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.nasa.gov">NASA</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://odeo.hq.nasa.gov/nofear.html">No Fear Act</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.nasa.gov/FOIA">FOIA</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.usa.gov/">USA.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://get.adobe.com/reader/">Get Acrobat Reader</a>
+              </li>
+                <li class="menu-item">
+        <a href="mailto:genelab-outreach@lists.nasa.gov">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.nasa.gov/accessibility/">Accessibility</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-googleanalytics" class="block block-block-content block-block-contenta4591662-005e-4346-aebc-5788f7623945">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!--<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-55187338-1', 'auto');
+			ga('send', 'pageview');
+		</script>--></div>
+      
+  </div>
+
+  </div>
+
+      </div>
+    </footer>
+  
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/590","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/normalize,ga\/analytics,system\/base,we_megamenu\/form.we-mega-menu-frontend,zircon\/global-scripts,zircon\/global-styling,zircon\/skins-menu","theme":"zircon","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"ga":{"commands":[["create","UA-55187338-1","auto",{"anonymizeIp":true}],["send","pageview"]]},"user":{"uid":0,"permissionsHash":"3763ad8da6ccba95a762089952c3a408a321e2f97dffb01171924f5b011b0a09"}}</script>
+<script src="/sites/default/files/js/js_KpGhkaK83--_ybGKrCX1PKg4G-jecdDyHgNBxjifOVA.js"></script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+<script src="/sites/default/files/js/js_fw-7d9G3e9S1GmMV8iQzepdCdvczpQhEtuGElT48AOo.js"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&amp;subagency=ARC" id="_fed_an_ua_tag" async type="text/javascript"></script>
+<script src="/sites/default/files/js/js_rGIPVHVAmTaZ0vnt4nTYErb9kSVevgTUAptPnZy1QTU.js"></script>
+
+  </body>
+</html>
+
