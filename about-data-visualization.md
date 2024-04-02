@@ -6,6 +6,8 @@ description: Learn more about GeneLab visualization tools
 
 Welcome to NASA GeneLab - the first comprehensive space-related omics database; users can upload, download, share, store, analyze, and [_**now visualize**_](https://visualization.genelab.nasa.gov/data/) spaceflight and spaceflight-relevant data from experiments using model organisms.
 
+{% embed url="https://visualization.genelab.nasa.gov/data/" %}
+
 GeneLab integrated visualization tools to allow users to interact with GeneLab processed data and promote new discoveries and develop new hypotheses from these space related studies. These tools were developed by our Visualization Working Group (VWG), which includes members from our scientific community to assist GeneLab as a collaboration with development of the visualization platform.
 
 The Gene Comparison Analysis Tool (GCAT) was developed by Catharinus Dijkstra. This tool set includes:

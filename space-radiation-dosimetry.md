@@ -26,4 +26,8 @@ The Environmental Data Application provides the capability to visualize telemetr
 
 ### RadLab Portal and RadLab Data API
 
+{% embed url="https://visualization.osdr.nasa.gov/eda/" %}
+
 The RadLab Portal provides access to radiation telemetry data from multiple databases maintained by multiple space agencies. The Web interface provides the ability to query, visualize, inspect, and download data; for example, time series plots of readings from multiple radiation detectors, pairwise comparisons of detector readings, and geospatial visualizations of radiation dose and flux registered by the detectors. The demo version of RadLab contains the data obtained from four detectors included in the DORELI project (DOSTEL1, DOSTEL2, Lidal, REM, Italian Space Agency) and the data from three Liulin-5 detectors (Bulgarian Academy of Sciences). All seven detectors are/were located on the International Space Station (ISS). The RadLab Data API enables data selection and retrieval at a programmatic level. Take a moment to explore the [RadLab Portal and Data API](https://visualization.osdr.nasa.gov/radlab/gui/data-overview/) now!
+
+<figure><img src=".gitbook/assets/Genelab_human_fire_filter.jpeg" alt="" width="375"><figcaption><p>Fire filter</p></figcaption></figure>

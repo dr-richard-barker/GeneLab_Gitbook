@@ -1,9 +1,5 @@
 # Overview of Educator Resources
 
-Sorry, you need to enable JavaScript to visit this website.
-
-###
-
 Humans have been fascinated by what exists beyond our skies for centuries, as documented across cultures and timelines in history. While the ability to explore has improved vastly, [NASA's interest](https://www.nasa.gov/exploration/whyweexplore/why\_we\_explore\_main.html#.Y8HmiofMKUl) in going deeper into space, especially with human-crewed flight, is dependent upon an understanding of space biology in order to mitigate health risks to space explorers. Space biology refers to the study of the effects of spaceflight conditions, ranging from factors such as microgravity, cosmic radiation, nutrition, confinement, light cycles, and more on organisms. In order to gain such biological insights, [NASA uses model organisms](https://science.nasa.gov/biological-physical/programs/space-biology) and biological techniques such as [Omics analyses](https://www.nasa.gov/hrp/omics-videos).
 
 A model organism is a non-human species that is used to study biological processes, usually in laboratory experimentation. Model organisms tend to have a short generation time yet are able to be used as comparisons to humans. Common examples of model organisms used in spaceflight studies include fruit flies, certain types of fish, worms, plants (_Arabidposis thaliana_) and rodents such as mice. For studies of cellular behavior, yeast is also a common model organism.
