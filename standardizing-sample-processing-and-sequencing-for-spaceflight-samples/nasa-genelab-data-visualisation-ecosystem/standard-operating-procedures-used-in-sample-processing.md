@@ -95,6 +95,6 @@ These Standard Operating Procedures (SOPs) are available on the **GeneLab Sample
 
 **If you have any questions, please contact us at** [**ARC-DL-GeneLab-sequencing-group@mail.nasa.gov**](mailto:ARC-DL-GeneLab-sequencing-group@mail.nasa.gov)**.**
 
-![NASA GeneLab – Open Science for Life in Spac](.gitbook/assets/GeneLab\_patch.png)
+![NASA GeneLab – Open Science for Life in Spac](../../.gitbook/assets/GeneLab\_patch.png)
 
 ### Contacts
