@@ -26,4 +26,9 @@ To date, GeneLab has baselined pipelines for the following omics data types (in 
 * Metagenomics
 * Platform-specific microarray pieplines
 * Methylation sequencing (Methyl-seq)
-* Upcoming Pipelines
+* Upcoming Pipelines include microRNAseq
+*
+
+    ![NASA GeneLab – Open Science for Life in Spac](.gitbook/assets/GeneLab\_patch.png)
+
+    ###

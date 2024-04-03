@@ -39,3 +39,9 @@ Sequencing depth (number of clusters/sample in millions). Review [GeneLab Standa
 NASA funding source:
 
 (e.g. Space Biology, HRP. If anticipated, please indicate)
+
+
+
+![NASA GeneLab – Open Science for Life in Spac](.gitbook/assets/GeneLab\_patch.png)
+
+###
