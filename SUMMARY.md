@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to NASA GeneLab](README.md)
+* [Welcome to NASA GeneLab and the Open Science Archive](README.md)
 * [GeneLab Project Introduction](genelab-project-introduction.md)
 * [GeneLab: Open Science for Life in Space](genelab-open-science-for-life-in-space.md)
 * [NASA GeneLab Data Systems](nasa-genelab-data-systems.md)
