@@ -12,7 +12,7 @@ For consistency across experiments, once a protocol is established and verified 
 
 As NASA gears toward returning to the Moon and heading out to Mars, the research done by GeneLab contributes to NASA’s missions here on Earth and beyond. New discoveries using GeneLab have already begun and will continue to deepen our understanding of biology and help us to discover cures for diseases, create better diagnostic tools, and ultimately enable astronauts to better withstand the rigors of long-duration spaceflight for deep-space missions.
 
-The opportunities for biological experimentation in space are limited and costly. To maximize the scientific discoveries made aboard the International Space Station (ISS) and space shuttle, NASA GeneLab’s Sample Processing Lab (SPL) has developed and validated standard operating procedures to process biological samples with high efficiency. &#x20;
+The opportunities for biological experimentation in space are limited and costly. To maximize the scientific discoveries made aboard the International Space Station (ISS) and space shuttle, NASA GeneLab’s Sample Processing Lab (SPL) has developed and validated standard operating procedures to process biological samples with high efficiency.
 
 It is important to compare results across different experiments to gain additional insights into the effects of spaceflight on biological systems. Harmonization of datasets has been achieved with a centralized sample processing operation such as the SPL. The lab has developed protocols for the generation of raw and processed DNA and RNA-sequencing data from mammalian tissues, cells, and bacteria. Once the lab’s work is completed and the data processing and curation steps have taken place, the data become immediately available to the public worldwide through the [GeneLab Data Repository](https://genelab-data.ndc.nasa.gov/genelab/projects). The SPL is fully equipped to process numerous model organisms for many downstream applications, including rodents, plants, microbes, fruit flies, and worms, just to name a few.
 
@@ -23,10 +23,10 @@ The highly skilled SPL team continuously trains to expand their knowledge on Nex
 * NovaSeq 6000 sequencer
 * iSeq 100 sequencers
 * Bullet Blender 24 Gold
-* Maxwell® RSC &#x20;
+* Maxwell® RSC
 * epMotion 5073t liquid handler
 * epMotion 5075t liquid handler
-* Qubit 4 Fluorometer &#x20;
+* Qubit 4 Fluorometer
 * 2100 Bioanalyzer
 * 4200 TapeStation System
 * BluePippin size selection tool.
@@ -41,7 +41,7 @@ Laboratory automation capitalizes on technology and avoids operator bias: a Prom
 
 SPL’s new NovaSeq 6000 is the most high-throughput sequencer currently on the market for short-read sequencing. The team focuses on getting quality data from every run so that a smaller scale benchtop sequencer, the iSeq 100, can be used to get a very accurate picture of library quality prior to high-throughput sequencing.
 
-The NovaSeq 6000 can generate up to 6000 GB of data, 20 billion reads in a single two-day run. This enormous amount of data makes the NovaSeq 6000 the most cost-efficient sequencer on the market. Following sequencing, the data are transferred to the GeneLab Data Processing Cluster for pre-processing and analysis. GeneLab’s Data Processing Team has developed standardized processing pipelines to convert bcl files to fastq, perform quality control, and further downstream analysis.  &#x20;
+The NovaSeq 6000 can generate up to 6000 GB of data, 20 billion reads in a single two-day run. This enormous amount of data makes the NovaSeq 6000 the most cost-efficient sequencer on the market. Following sequencing, the data are transferred to the GeneLab Data Processing Cluster for pre-processing and analysis. GeneLab’s Data Processing Team has developed standardized processing pipelines to convert bcl files to fastq, perform quality control, and further downstream analysis.
 
 ### GeneLab sequencing standards
 
@@ -53,11 +53,11 @@ All newly processed omics data hosted on GeneLab are carefully curated to includ
 
 GeneLab is working with principal investigators (PIs) to generate non-proprietary data using its budget, or proprietary data using the PIs budget. Currently, only scientists funded by the [NASA’s Biological and Physical Sciences Program ](https://science.nasa.gov/biological-physical)or NASA employees are able to take advantage of these services. Utilizing GeneLab services allows PIs to take advantage of GeneLab’s experience processing space-flown tissues and to harmonize their data by utilizing GeneLab’s standard assays. All primary sequencing data are run through a standard GeneLab data processing pipeline (developed and approved by GeneLab Analysis Working Groups) to generate a minimal set of processed data that will be delivered to the PI along with the raw data.
 
-To contact GeneLab for data processing quote requests, fill out this form, [https://genelab.nasa.gov/form/genelab-sequencing-services](broken-reference)
+To contact GeneLab for data processing quote requests, fill out this form, [https://genelab.nasa.gov/form/genelab-sequencing-services](broken-reference/)
 
 ### Currently available kits
 
-Below are the currently available sequencing kits that have been developed specifically for use with space samples. If you are interested in processing samples using a different sample preparation kit, please inquire about pricing by filling out this [Sequencing and Data Processing Quote Request](broken-reference).
+Below are the currently available sequencing kits that have been developed specifically for use with space samples. If you are interested in processing samples using a different sample preparation kit, please inquire about pricing by filling out this [Sequencing and Data Processing Quote Request](broken-reference/).
 
 * [Illumina TruSeq Ribo Depletion with RiboZero Gold](https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-total-rna.html)
 * [Illumina TruSeq Ribo Depletion with RiboZero Plant](https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-total-rna-plant.html)
@@ -69,4 +69,4 @@ Below are the currently available sequencing kits that have been developed speci
 * [Illumina DNA Prep Kit](https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/illumina-dna-prep.html)
 * [10X Multiome ATACseq and Gene Expression](https://www.10xgenomics.com/products/single-cell-multiome-atac-plus-gene-expression)
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
